@@ -160,7 +160,6 @@
     {
         "prompt": "Frag: billiges Ticket",
         "response": [
-            [
                 "a cheap ticket",
                 "a cheap ticket please",
                 "can i buy a cheap ticket",
@@ -323,7 +322,6 @@
                 "yes i'd like a cheap ticket",
                 "yes i'd like a cheap ticket please"
             ]
-        ]
     },
     {
         "prompt": "Frag: Wie viel kostet es?",
@@ -355,7 +353,6 @@
     {
         "prompt": "Sag: Ich möchte am Montagmorgen abreisen",
         "response": [
-            [
                 "i need to leave on monday morning",
                 "i need to leave on monday morning please",
                 "i should like to leave on monday morning",
@@ -367,7 +364,6 @@
                 "i'd like to leave on monday morning",
                 "i'd like to leave on monday morning please"
             ]
-        ]
     },
     {
         "prompt": "Sag: Ich möchte am Montagnachmittag abreisen",
@@ -504,7 +500,6 @@
     {
         "prompt": "Sag: Ich möchte am Mittwochnachmittag abreisen",
         "response": [
-            [
                 "i need to leave on wednesday afternoon",
                 "i need to leave on wednesday afternoon please",
                 "i should like to leave on wednesday afternoon",
@@ -516,7 +511,6 @@
                 "i'd like to leave on wednesday afternoon",
                 "i'd like to leave on wednesday afternoon please"
             ]
-        ]
     },
     {
         "prompt": "Sag: Ich möchte am Mittwochabend abreisen",
@@ -536,7 +530,6 @@
     {
         "prompt": "Sag: Ich möchte am Donnerstag abreisen",
         "response": [
-            [
                 "i need to leave on thursday",
                 "i need to leave on thursday please",
                 "i should like to leave on thursday",
@@ -548,7 +541,6 @@
                 "i'd like to leave on thursday",
                 "i'd like to leave on thursday please"
             ]
-        ]
     },
     {
         "prompt": "Sag: Ich möchte am Donnerstagmorgen abreisen",
@@ -1364,7 +1356,6 @@
     {
         "prompt": "Sag: Ich möchte um 22 Uhr morgen abreisen",
         "response": [
-            [
                 "i need to leave tomorrow at ten o'clock",
                 "i need to leave tomorrow at ten o'clock please",
                 "i need to leave tomorrow at ten p m",
@@ -1396,7 +1387,6 @@
                 "i'd like to leave tomorrow at ten pm",
                 "i'd like to leave tomorrow at ten pm please"
             ]
-        ]
     },
     {
         "prompt": "Sag: Ich heisse Andrew",
@@ -1696,14 +1686,12 @@
     {
         "prompt": "Danke",
         "response": [
-            [
                 "thank you",
                 "thank you so much",
                 "thank you very much",
                 "thanks",
                 "thanks a lot"
             ]
-        ]
     },
     {
         "prompt": "Frag: 2 Tickets nach London",
@@ -2889,30 +2877,24 @@
     {
         "prompt": "Hallo",
         "response": [
-            [
                 "good morning",
                 "hello",
                 "hi"
             ]
-        ]
     },
     {
         "prompt": "Ja",
         "response": [
-            [
                 "yes",
                 "yes please"
             ]
-        ]
     },
     {
         "prompt": "Sag: Dies ist okay",
         "response": [
-            [
                 "that is okay",
                 "yes that is okay"
             ]
-        ]
     },
     {
         "prompt": "Sag: Die Hauptstadt von der Schweiz ist Bern",
@@ -3024,10 +3006,8 @@
     {
         "prompt": "Sag: Spanien ist in Europa",
         "response": [
-            [
                 "spain is in europe"
             ]
-        ]
     },
     {
         "prompt": "Sag: Österreich ist in Europa",
@@ -3080,11 +3060,9 @@
     {
         "prompt": "Sag: Spanien ist nicht in Afrika",
         "response": [
-            [
                 "spain is not in africa",
                 "spain isn't in africa"
             ]
-        ]
     },
     {
         "prompt": "Sag: Österreich ist nicht in Afrika",
@@ -3096,12 +3074,10 @@
     {
         "prompt": "Auf Wiedersehen",
         "response": [
-            [
                 "bye",
                 "bye bye",
                 "goodbye"
             ]
-        ]
     },
     {
         "prompt": "Sag: Ich heisse Andrew",
@@ -3263,11 +3239,9 @@
     {
         "prompt": "Sag: Dies ist okay",
         "response": [
-            [
                 "that is okay",
                 "yes that is okay"
             ]
-        ]
     },
     {
         "prompt": "Sag: Ich bin aus Amerika",
@@ -3456,11 +3430,9 @@
     {
         "prompt": "Sag: Ich habe eine jüngere Schwester",
         "response": [
-            [
                 "i have got one younger sister",
                 "i have one younger sister"
             ]
-        ]
     },
     {
         "prompt": "Sag: Ich habe eine ältere Schwester",
@@ -3494,11 +3466,9 @@
     {
         "prompt": "Sag: Ich habe 2 Schwestern",
         "response": [
-            [
                 "i have got two sisters",
                 "i have two sisters"
             ]
-        ]
     },
     {
         "prompt": "Sag: Ich habe 2 jüngere Brüder",
@@ -3577,11 +3547,9 @@
     {
         "prompt": "Sag: Ich habe 4 Brüder",
         "response": [
-            [
                 "i have four brothers",
                 "i have got four brothers"
             ]
-        ]
     },
     {
         "prompt": "Sag: Ich habe 4 Schwestern",
@@ -3622,30 +3590,24 @@
     {
         "prompt": "Sag: Ich habe 4 ältere Schwestern",
         "response": [
-            [
                 "i have four older sisters",
                 "i have got four older sisters"
             ]
-        ]
     },
     {
         "prompt": "Hallo",
         "response": [
-            [
                 "good morning",
                 "hello",
                 "hi"
             ]
-        ]
     },
     {
         "prompt": "Ja",
         "response": [
-            [
                 "yes",
                 "yes please"
             ]
-        ]
     },
     {
         "prompt": "Sag: Dies ist mein Pass",
@@ -3882,12 +3844,10 @@
     {
         "prompt": "Auf Wiedersehen",
         "response": [
-            [
                 "bye",
                 "bye bye",
                 "goodbye"
             ]
-        ]
     },
     {
         "prompt": "Sag: Ich muss gehen",
@@ -3904,33 +3864,27 @@
     {
         "prompt": "Danke",
         "response": [
-            [
                 "thank you",
                 "thank you so much",
                 "thank you very much",
                 "thanks",
                 "thanks a lot"
             ]
-        ]
     },
     {
         "prompt": "Hallo",
         "response": [
-            [
                 "good morning",
                 "hello",
                 "hi"
             ]
-        ]
     },
     {
         "prompt": "Ja",
         "response": [
-            [
                 "yes",
                 "yes please"
             ]
-        ]
     },
     {
         "prompt": "Sag: Das Badezimmer ist dreckig",
@@ -4834,10 +4788,8 @@
     {
         "prompt": "Nein",
         "response": [
-            [
                 "no"
             ]
-        ]
     },
     {
         "prompt": "Sag: Ich habe keine Reservation",
@@ -5464,14 +5416,12 @@
     {
         "prompt": "Danke",
         "response": [
-            [
                 "thank you",
                 "thank you so much",
                 "thank you very much",
                 "thanks",
                 "thanks a lot"
             ]
-        ]
     },
     {
         "prompt": "Frag: Doppelzimmer",
@@ -6339,20 +6289,16 @@
     {
         "prompt": "Hallo",
         "response": [
-            [
                 "good morning",
                 "hello",
                 "hi"
             ]
-        ]
     },
     {
         "prompt": "Frag: Wo kann ich ein Duschgel kaufen?",
         "response": [
-            [
                 "where can i buy shower gel"
             ]
-        ]
     },
     {
         "prompt": "Frag: Wo kann ich ein Shampoo kaufen?",
@@ -6469,21 +6415,17 @@
     {
         "prompt": "Ja",
         "response": [
-            [
                 "yes",
                 "yes please"
             ]
-        ]
     },
     {
         "prompt": "Hallo",
         "response": [
-            [
                 "good morning",
                 "hello",
                 "hi"
             ]
-        ]
     },
     {
         "prompt": "Frag: Ich möchte die Rechnung",
@@ -8097,7 +8039,6 @@
     {
         "prompt": "Frag: Ich möchte das bestellte Essen",
         "response": [
-            [
                 "can i have the food i ordered",
                 "can i have the food that i ordered",
                 "can i have what i ordered",
@@ -8180,7 +8121,6 @@
                 "please give me the food that i ordered",
                 "please give me what i ordered"
             ]
-        ]
     },
     {
         "prompt": "Sag: Ich warte auf das bestellte Essen",
@@ -8203,12 +8143,10 @@
     {
         "prompt": "Auf Wiedersehen",
         "response": [
-            [
                 "bye",
                 "bye bye",
                 "goodbye"
             ]
-        ]
     },
     {
         "prompt": "Sag: Ich möchte mit dem Manager sprechen",
@@ -10063,24 +10001,20 @@
     {
         "prompt": "Danke",
         "response": [
-            [
                 "thank you",
                 "thank you so much",
                 "thank you very much",
                 "thanks",
                 "thanks a lot"
             ]
-        ]
     },
     {
         "prompt": "Hallo",
         "response": [
-            [
                 "good morning",
                 "hello",
                 "hi"
             ]
-        ]
     },
     {
         "prompt": "Sag: Dies ist nicht was ich bestellt habe",
@@ -10103,11 +10037,9 @@
     {
         "prompt": "Ja",
         "response": [
-            [
                 "yes",
                 "yes please"
             ]
-        ]
     },
     {
         "prompt": "Frag: Sandalen",
@@ -10801,11 +10733,9 @@
     {
         "prompt": "Sag: Dies ist zu weit",
         "response": [
-            [
                 "it is too loose",
                 "this is too loose"
             ]
-        ]
     },
     {
         "prompt": "Frag: blaue Sandalen",
@@ -12660,7 +12590,6 @@
     {
         "prompt": "Frag: ein braunes T-Shirt",
         "response": [
-            [
                 "a brown t-shirt",
                 "a brown t-shirt please",
                 "a brown tee shirt",
@@ -12986,12 +12915,10 @@
                 "yes i'd like a brown tee shirt",
                 "yes i'd like a brown tee shirt please"
             ]
-        ]
     },
     {
         "prompt": "Frag: ein gelbes Hemd",
         "response": [
-            [
                 "a yellow shirt",
                 "a yellow shirt please",
                 "can i buy a yellow shirt",
@@ -13155,7 +13082,6 @@
                 "yes i'd like a yellow shirt",
                 "yes i'd like a yellow shirt please"
             ]
-        ]
     },
     {
         "prompt": "Frag: ein gelbes Sweatshirt",
@@ -13990,7 +13916,6 @@
     {
         "prompt": "Frag: ein grünes T-Shirt",
         "response": [
-            [
                 "a green t-shirt",
                 "a green t-shirt please",
                 "a green tee shirt",
@@ -14316,7 +14241,6 @@
                 "yes i'd like a green tee shirt",
                 "yes i'd like a green tee shirt please"
             ]
-        ]
     },
     {
         "prompt": "Frag: ein pinkiges Hemd",
@@ -14488,7 +14412,6 @@
     {
         "prompt": "Frag: ein pinkiges Sweatshirt",
         "response": [
-            [
                 "a pink sweatshirt",
                 "a pink sweatshirt please",
                 "can i buy a pink sweatshirt",
@@ -14652,7 +14575,6 @@
                 "yes i'd like a pink sweatshirt",
                 "yes i'd like a pink sweatshirt please"
             ]
-        ]
     },
     {
         "prompt": "Frag: ein pinkiges T-Shirt",
@@ -15650,7 +15572,6 @@
     {
         "prompt": "Frag: ein schwarzes Sweatshirt",
         "response": [
-            [
                 "a black sweatshirt",
                 "a black sweatshirt please",
                 "can i buy a black sweatshirt",
@@ -15814,7 +15735,6 @@
                 "yes i'd like a black sweatshirt",
                 "yes i'd like a black sweatshirt please"
             ]
-        ]
     },
     {
         "prompt": "Frag: ein violettes Hemd",
@@ -16818,7 +16738,6 @@
     {
         "prompt": "Frag: ein weisses T-Shirt",
         "response": [
-            [
                 "a white t-shirt",
                 "a white t-shirt please",
                 "a white tee shirt",
@@ -17144,7 +17063,6 @@
                 "yes i'd like a white tee shirt",
                 "yes i'd like a white tee shirt please"
             ]
-        ]
     },
     {
         "prompt": "Frag: gelbe Hosen",
@@ -17818,7 +17736,6 @@
     {
         "prompt": "Frag: pinkige Hosen",
         "response": [
-            [
                 "can i buy pink trousers",
                 "can i buy pink trousers please",
                 "can i have pink trousers",
@@ -17982,12 +17899,10 @@
                 "yes i'd like pink trousers",
                 "yes i'd like pink trousers please"
             ]
-        ]
     },
     {
         "prompt": "Frag: pinkige Jeans",
         "response": [
-            [
                 "can i buy pink jeans",
                 "can i buy pink jeans please",
                 "can i have pink jeans",
@@ -18151,7 +18066,6 @@
                 "yes i'd like pink jeans",
                 "yes i'd like pink jeans please"
             ]
-        ]
     },
     {
         "prompt": "Frag: rote Hosen",
@@ -18323,7 +18237,6 @@
     {
         "prompt": "Frag: rote Jeans",
         "response": [
-            [
                 "can i buy red jeans",
                 "can i buy red jeans please",
                 "can i have red jeans",
@@ -18487,12 +18400,10 @@
                 "yes i'd like red jeans",
                 "yes i'd like red jeans please"
             ]
-        ]
     },
     {
         "prompt": "Frag: violette Hosen",
         "response": [
-            [
                 "can i buy purple trousers",
                 "can i buy purple trousers please",
                 "can i have purple trousers",
@@ -18656,12 +18567,10 @@
                 "yes i'd like purple trousers",
                 "yes i'd like purple trousers please"
             ]
-        ]
     },
     {
         "prompt": "Frag: violette Jeans",
         "response": [
-            [
                 "can i buy purple jeans",
                 "can i buy purple jeans please",
                 "can i have purple jeans",
@@ -18825,12 +18734,10 @@
                 "yes i'd like purple jeans",
                 "yes i'd like purple jeans please"
             ]
-        ]
     },
     {
         "prompt": "Frag: weisse Hosen",
         "response": [
-            [
                 "can i buy white trousers",
                 "can i buy white trousers please",
                 "can i have white trousers",
@@ -18994,7 +18901,6 @@
                 "yes i'd like white trousers",
                 "yes i'd like white trousers please"
             ]
-        ]
     },
     {
         "prompt": "Frag: weisse Jeans",
@@ -19204,7 +19110,6 @@
     {
         "prompt": "Frag: Wie viel kostet das T-Shirt?",
         "response": [
-            [
                 "how much does the t-shirt cost",
                 "how much does the tee shirt cost",
                 "how much does this t-shirt cost",
@@ -19214,7 +19119,6 @@
                 "how much is this t-shirt",
                 "how much is this tee shirt"
             ]
-        ]
     },
     {
         "prompt": "Frag: Wie viel kostet die Hose?",
@@ -19255,91 +19159,69 @@
     {
         "prompt": "Sag: Die Sandalen sind zu gross",
         "response": [
-            [
                 "the sandals are too big"
             ]
-        ]
     },
     {
         "prompt": "Sag: Die Sandalen sind zu klein",
         "response": [
-            [
                 "the sandals are too small"
             ]
-        ]
     },
     {
         "prompt": "Sag: Die Schuhe sind zu gross",
         "response": [
-            [
                 "the shoes are too big"
             ]
-        ]
     },
     {
         "prompt": "Sag: Die Schuhe sind zu klein",
         "response": [
-            [
                 "the shoes are too small"
             ]
-        ]
     },
     {
         "prompt": "Sag: Die Stiefel sind zu gross",
         "response": [
-            [
                 "the boots are too big"
             ]
-        ]
     },
     {
         "prompt": "Sag: Die Stiefel sind zu klein",
         "response": [
-            [
                 "the boots are too small"
             ]
-        ]
     },
     {
         "prompt": "Sag: Sie sind zu gross",
         "response": [
-            [
                 "they are too big"
             ]
-        ]
     },
     {
         "prompt": "Sag: Sie sind zu klein",
         "response": [
-            [
                 "they are too small"
             ]
-        ]
     },
     {
         "prompt": "Sag: Dies ist die falsche Farbe",
         "response": [
-            [
                 "this is the wrong colour"
             ]
-        ]
     },
     {
         "prompt": "Sag: Mir gefällt die Farbe nicht",
         "response": [
-            [
                 "i do not like the colour",
                 "i don't like the colour"
             ]
-        ]
     },
     {
         "prompt": "Sag: Sie haben die falsche Farbe gebracht",
         "response": [
-            [
                 "you brought me the wrong colour"
             ]
-        ]
     },
     {
         "prompt": "Sag du möchtest nicht: dieses Hemd",
@@ -19395,7 +19277,6 @@
     {
         "prompt": "Sag du möchtest nicht: diese Hosen",
         "response": [
-            [
                 "i do not want these trousers",
                 "i do not want this pair of trousers",
                 "i do not want to have these trousers",
@@ -19413,7 +19294,6 @@
                 "no i don't want to have these trousers",
                 "no i don't want to have this pair of trousers"
             ]
-        ]
     },
     {
         "prompt": "Sag du möchtest nicht: diese Jeans",
@@ -19440,7 +19320,6 @@
     {
         "prompt": "Sag, dass du es nicht möchtest",
         "response": [
-            [
                 "i do not want it",
                 "i do not want this",
                 "i don't want it",
@@ -19450,7 +19329,6 @@
                 "no i don't want it",
                 "no i don't want this"
             ]
-        ]
     },
     {
         "prompt": "Frag: Hosen",
@@ -23226,14 +23104,12 @@
     {
         "prompt": "Danke",
         "response": [
-            [
                 "thank you",
                 "thank you so much",
                 "thank you very much",
                 "thanks",
                 "thanks a lot"
             ]
-        ]
     },
     {
         "prompt": "Sag: Das Hemd ist zu teuer",
@@ -23314,41 +23190,33 @@
     {
         "prompt": "Hallo",
         "response": [
-            [
                 "good morning",
                 "hello",
                 "hi"
             ]
-        ]
     },
     {
         "prompt": "Ja",
         "response": [
-            [
                 "yes",
                 "yes please"
             ]
-        ]
     },
     {
         "prompt": "Auf Wiedersehen",
         "response": [
-            [
                 "bye",
                 "bye bye",
                 "goodbye"
             ]
-        ]
     },
     {
         "prompt": "Hallo",
         "response": [
-            [
                 "good morning",
                 "hello",
                 "hi"
             ]
-        ]
     },
     {
         "prompt": "Frag: ein Ticket für Billy Elliot",
@@ -23590,7 +23458,6 @@
     {
         "prompt": "Frag: ein Ticket für Oliver Twist",
         "response": [
-            [
                 "can i have a ticket for oliver twist",
                 "can i have a ticket for oliver twist please",
                 "can i please have a ticket for oliver twist",
@@ -23662,7 +23529,6 @@
                 "yes i'd like to have a ticket for oliver twist",
                 "yes i'd like to have a ticket for oliver twist please"
             ]
-        ]
     },
     {
         "prompt": "Frag: ein Ticket für Starlight Express",
@@ -23818,7 +23684,6 @@
     {
         "prompt": "Frag: ein Ticket für das Phantom der Oper",
         "response": [
-            [
                 "can i have a ticket for the phantom of the opera",
                 "can i have a ticket for the phantom of the opera please",
                 "can i please have a ticket for the phantom of the opera",
@@ -23890,12 +23755,10 @@
                 "yes i'd like to have a ticket for the phantom of the opera",
                 "yes i'd like to have a ticket for the phantom of the opera please"
             ]
-        ]
     },
     {
         "prompt": "Frag trotzdem: ein Ticket für Billy Elliot",
         "response": [
-            [
                 "can i have a ticket for billy elliot",
                 "can i have a ticket for billy elliot please",
                 "can i please have a ticket for billy elliot",
@@ -23935,12 +23798,10 @@
                 "no i'd still like to get a ticket for billy elliot",
                 "no i'd still like to get a ticket for billy elliot please"
             ]
-        ]
     },
     {
         "prompt": "Frag trotzdem: ein Ticket für König der Löwen",
         "response": [
-            [
                 "can i have a ticket for the lion king",
                 "can i have a ticket for the lion king please",
                 "can i please have a ticket for the lion king",
@@ -23980,12 +23841,10 @@
                 "no i'd still like to get a ticket for the lion king",
                 "no i'd still like to get a ticket for the lion king please"
             ]
-        ]
     },
     {
         "prompt": "Frag trotzdem: ein Ticket für Mamma Mia",
         "response": [
-            [
                 "can i have a ticket for mamma mia",
                 "can i have a ticket for mamma mia please",
                 "can i please have a ticket for mamma mia",
@@ -24025,12 +23884,10 @@
                 "no i'd still like to get a ticket for mamma mia",
                 "no i'd still like to get a ticket for mamma mia please"
             ]
-        ]
     },
     {
         "prompt": "Frag trotzdem: ein Ticket für Oliver Twist",
         "response": [
-            [
                 "can i have a ticket for oliver twist",
                 "can i have a ticket for oliver twist please",
                 "can i please have a ticket for oliver twist",
@@ -24070,12 +23927,10 @@
                 "no i'd still like to get a ticket for oliver twist",
                 "no i'd still like to get a ticket for oliver twist please"
             ]
-        ]
     },
     {
         "prompt": "Frag trotzdem: ein Ticket für Starlight Express",
         "response": [
-            [
                 "can i have a ticket for starlight express",
                 "can i have a ticket for starlight express please",
                 "can i please have a ticket for starlight express",
@@ -24115,12 +23970,10 @@
                 "no i'd still like to get a ticket for starlight express",
                 "no i'd still like to get a ticket for starlight express please"
             ]
-        ]
     },
     {
         "prompt": "Frag trotzdem: ein Ticket für Wicked",
         "response": [
-            [
                 "can i have a ticket for wicked",
                 "can i have a ticket for wicked please",
                 "can i please have a ticket for wicked",
@@ -24160,12 +24013,10 @@
                 "no i'd still like to get a ticket for wicked",
                 "no i'd still like to get a ticket for wicked please"
             ]
-        ]
     },
     {
         "prompt": "Frag trotzdem: ein Ticket für das Phantom der Oper",
         "response": [
-            [
                 "can i have a ticket for the phantom of the opera",
                 "can i have a ticket for the phantom of the opera please",
                 "can i please have a ticket for the phantom of the opera",
@@ -24205,7 +24056,6 @@
                 "no i'd still like to get a ticket for the phantom of the opera",
                 "no i'd still like to get a ticket for the phantom of the opera please"
             ]
-        ]
     },
     {
         "prompt": "Sag: ich kaufe diese Tickets",
@@ -27405,7 +27255,6 @@
     {
         "prompt": "Frag: 2 Tickets für Mamma Mia",
         "response": [
-            [
                 "can i buy two tickets for mamma mia",
                 "can i buy two tickets for mamma mia please",
                 "can i have two tickets for mamma mia",
@@ -27569,7 +27418,6 @@
                 "yes i'd like two tickets for mamma mia",
                 "yes i'd like two tickets for mamma mia please"
             ]
-        ]
     },
     {
         "prompt": "Frag: 2 Tickets für Starlight Express",
@@ -29920,7 +29768,6 @@
     {
         "prompt": "Frag: 4 Tickets für das Phantom der Oper",
         "response": [
-            [
                 "can i buy four tickets for the phantom of the opera",
                 "can i buy four tickets for the phantom of the opera please",
                 "can i have four tickets for the phantom of the opera",
@@ -30084,7 +29931,6 @@
                 "yes i'd like four tickets for the phantom of the opera",
                 "yes i'd like four tickets for the phantom of the opera please"
             ]
-        ]
     },
     {
         "prompt": "Frag: 1 Musical-Ticket",
@@ -31443,7 +31289,6 @@
     {
         "prompt": "Frag: 5 Tickets",
         "response": [
-            [
                 "can i buy five tickets",
                 "can i buy five tickets please",
                 "can i have five tickets",
@@ -31607,7 +31452,6 @@
                 "yes i'd like five tickets",
                 "yes i'd like five tickets please"
             ]
-        ]
     },
     {
         "prompt": "Sag: Ich möchte hinten sitzen",
@@ -31651,11 +31495,9 @@
     {
         "prompt": "Sag: Ich möchte in der dritten Reihe sitzen",
         "response": [
-            [
                 "i want to sit in the third row",
                 "i would like to sit in the third row"
             ]
-        ]
     },
     {
         "prompt": "Sag: Ich möchte in der vierten Reihe sitzen",
@@ -31742,14 +31584,12 @@
     {
         "prompt": "Danke",
         "response": [
-            [
                 "thank you",
                 "thank you so much",
                 "thank you very much",
                 "thanks",
                 "thanks a lot"
             ]
-        ]
     },
     {
         "prompt": "Frag: ein Ticket für Montagabend",
@@ -34741,7 +34581,6 @@
     {
         "prompt": "Frag: 2 Tickets für Montagabend",
         "response": [
-            [
                 "can i buy two tickets for monday evening",
                 "can i buy two tickets for monday evening please",
                 "can i buy two tickets for monday night",
@@ -35067,7 +34906,6 @@
                 "yes i'd like two tickets for monday night",
                 "yes i'd like two tickets for monday night please"
             ]
-        ]
     },
     {
         "prompt": "Frag: 2 Tickets für Dienstagabend",
@@ -35730,7 +35568,6 @@
     {
         "prompt": "Frag: 2 Tickets für Donnerstagabend",
         "response": [
-            [
                 "can i buy two tickets for thursday evening",
                 "can i buy two tickets for thursday evening please",
                 "can i buy two tickets for thursday night",
@@ -36056,12 +35893,10 @@
                 "yes i'd like two tickets for thursday night",
                 "yes i'd like two tickets for thursday night please"
             ]
-        ]
     },
     {
         "prompt": "Frag: 2 Tickets für Freitagabend",
         "response": [
-            [
                 "can i buy two tickets for friday evening",
                 "can i buy two tickets for friday evening please",
                 "can i buy two tickets for friday night",
@@ -36387,12 +36222,10 @@
                 "yes i'd like two tickets for friday night",
                 "yes i'd like two tickets for friday night please"
             ]
-        ]
     },
     {
         "prompt": "Frag: 2 Tickets für Samstagabend",
         "response": [
-            [
                 "can i buy two tickets for saturday evening",
                 "can i buy two tickets for saturday evening please",
                 "can i buy two tickets for saturday night",
@@ -36718,12 +36551,10 @@
                 "yes i'd like two tickets for saturday night",
                 "yes i'd like two tickets for saturday night please"
             ]
-        ]
     },
     {
         "prompt": "Frag: 2 Tickets für Sonntagabend",
         "response": [
-            [
                 "can i buy two tickets for sunday evening",
                 "can i buy two tickets for sunday evening please",
                 "can i buy two tickets for sunday night",
@@ -37049,7 +36880,6 @@
                 "yes i'd like two tickets for sunday night",
                 "yes i'd like two tickets for sunday night please"
             ]
-        ]
     },
     {
         "prompt": "Frag: 2 Tickets für heute Abend",
@@ -37385,7 +37215,6 @@
     {
         "prompt": "Frag: 2 Tickets für morgen Abend",
         "response": [
-            [
                 "can i buy two tickets for tomorrow evening",
                 "can i buy two tickets for tomorrow evening please",
                 "can i buy two tickets for tomorrow night",
@@ -37711,7 +37540,6 @@
                 "yes i'd like two tickets for tomorrow night",
                 "yes i'd like two tickets for tomorrow night please"
             ]
-        ]
     },
     {
         "prompt": "Frag: 3 Tickets für Montagabend",
@@ -38374,7 +38202,6 @@
     {
         "prompt": "Frag: 3 Tickets für Mittwochabend",
         "response": [
-            [
                 "can i buy three tickets for wednesday evening",
                 "can i buy three tickets for wednesday evening please",
                 "can i buy three tickets for wednesday night",
@@ -38700,12 +38527,10 @@
                 "yes i'd like three tickets for wednesday night",
                 "yes i'd like three tickets for wednesday night please"
             ]
-        ]
     },
     {
         "prompt": "Frag: 3 Tickets für Donnerstagabend",
         "response": [
-            [
                 "can i buy three tickets for thursday evening",
                 "can i buy three tickets for thursday evening please",
                 "can i buy three tickets for thursday night",
@@ -39031,12 +38856,10 @@
                 "yes i'd like three tickets for thursday night",
                 "yes i'd like three tickets for thursday night please"
             ]
-        ]
     },
     {
         "prompt": "Frag: 3 Tickets für Freitagabend",
         "response": [
-            [
                 "can i buy three tickets for friday evening",
                 "can i buy three tickets for friday evening please",
                 "can i buy three tickets for friday night",
@@ -39362,12 +39185,10 @@
                 "yes i'd like three tickets for friday night",
                 "yes i'd like three tickets for friday night please"
             ]
-        ]
     },
     {
         "prompt": "Frag: 3 Tickets für Samstagabend",
         "response": [
-            [
                 "can i buy three tickets for saturday evening",
                 "can i buy three tickets for saturday evening please",
                 "can i buy three tickets for saturday night",
@@ -39693,7 +39514,6 @@
                 "yes i'd like three tickets for saturday night",
                 "yes i'd like three tickets for saturday night please"
             ]
-        ]
     },
     {
         "prompt": "Frag: 3 Tickets für Sonntagabend",
@@ -41015,7 +40835,6 @@
     {
         "prompt": "Frag: 4 Tickets für Dienstagabend",
         "response": [
-            [
                 "can i buy four tickets for tuesday evening",
                 "can i buy four tickets for tuesday evening please",
                 "can i buy four tickets for tuesday night",
@@ -41341,7 +41160,6 @@
                 "yes i'd like four tickets for tuesday night",
                 "yes i'd like four tickets for tuesday night please"
             ]
-        ]
     },
     {
         "prompt": "Frag: 4 Tickets für Mittwochabend",
@@ -41675,7 +41493,6 @@
     {
         "prompt": "Frag: 4 Tickets für Donnerstagabend",
         "response": [
-            [
                 "can i buy four tickets for thursday evening",
                 "can i buy four tickets for thursday evening please",
                 "can i buy four tickets for thursday night",
@@ -42001,7 +41818,6 @@
                 "yes i'd like four tickets for thursday night",
                 "yes i'd like four tickets for thursday night please"
             ]
-        ]
     },
     {
         "prompt": "Frag: 4 Tickets für Freitagabend",
@@ -42993,7 +42809,6 @@
     {
         "prompt": "Frag: 4 Tickets für heute Abend",
         "response": [
-            [
                 "can i buy four tickets for this evening",
                 "can i buy four tickets for this evening please",
                 "can i buy four tickets for tonight",
@@ -43319,12 +43134,10 @@
                 "yes i'd like four tickets for tonight",
                 "yes i'd like four tickets for tonight please"
             ]
-        ]
     },
     {
         "prompt": "Frag: 4 Tickets für morgen Abend",
         "response": [
-            [
                 "can i buy four tickets for tomorrow evening",
                 "can i buy four tickets for tomorrow evening please",
                 "can i buy four tickets for tomorrow night",
@@ -43650,12 +43463,10 @@
                 "yes i'd like four tickets for tomorrow night",
                 "yes i'd like four tickets for tomorrow night please"
             ]
-        ]
     },
     {
         "prompt": "Frag: Tickets für Montagabend",
         "response": [
-            [
                 "can i buy tickets for monday evening",
                 "can i buy tickets for monday evening please",
                 "can i buy tickets for monday night",
@@ -43981,12 +43792,10 @@
                 "yes i'd like tickets for monday night",
                 "yes i'd like tickets for monday night please"
             ]
-        ]
     },
     {
         "prompt": "Frag: Tickets für Dienstagabend",
         "response": [
-            [
                 "can i buy tickets for tuesday evening",
                 "can i buy tickets for tuesday evening please",
                 "can i buy tickets for tuesday night",
@@ -44312,12 +44121,10 @@
                 "yes i'd like tickets for tuesday night",
                 "yes i'd like tickets for tuesday night please"
             ]
-        ]
     },
     {
         "prompt": "Frag: Tickets für Mittwochabend",
         "response": [
-            [
                 "can i buy tickets for wednesday evening",
                 "can i buy tickets for wednesday evening please",
                 "can i buy tickets for wednesday night",
@@ -44643,12 +44450,10 @@
                 "yes i'd like tickets for wednesday night",
                 "yes i'd like tickets for wednesday night please"
             ]
-        ]
     },
     {
         "prompt": "Frag: Tickets für Donnerstagabend",
         "response": [
-            [
                 "can i buy tickets for thursday evening",
                 "can i buy tickets for thursday evening please",
                 "can i buy tickets for thursday night",
@@ -44974,12 +44779,10 @@
                 "yes i'd like tickets for thursday night",
                 "yes i'd like tickets for thursday night please"
             ]
-        ]
     },
     {
         "prompt": "Frag: Tickets für Freitagabend",
         "response": [
-            [
                 "can i buy tickets for friday evening",
                 "can i buy tickets for friday evening please",
                 "can i buy tickets for friday night",
@@ -45305,12 +45108,10 @@
                 "yes i'd like tickets for friday night",
                 "yes i'd like tickets for friday night please"
             ]
-        ]
     },
     {
         "prompt": "Frag: Tickets für Samstagabend",
         "response": [
-            [
                 "can i buy tickets for saturday evening",
                 "can i buy tickets for saturday evening please",
                 "can i buy tickets for saturday night",
@@ -45636,12 +45437,10 @@
                 "yes i'd like tickets for saturday night",
                 "yes i'd like tickets for saturday night please"
             ]
-        ]
     },
     {
         "prompt": "Frag: Tickets für Sonntagabend",
         "response": [
-            [
                 "can i buy tickets for sunday evening",
                 "can i buy tickets for sunday evening please",
                 "can i buy tickets for sunday night",
@@ -45967,12 +45766,10 @@
                 "yes i'd like tickets for sunday night",
                 "yes i'd like tickets for sunday night please"
             ]
-        ]
     },
     {
         "prompt": "Frag: Tickets für heute Abend",
         "response": [
-            [
                 "can i buy tickets for this evening",
                 "can i buy tickets for this evening please",
                 "can i buy tickets for tonight",
@@ -46298,12 +46095,10 @@
                 "yes i'd like tickets for tonight",
                 "yes i'd like tickets for tonight please"
             ]
-        ]
     },
     {
         "prompt": "Frag: Tickets für morgen Abend",
         "response": [
-            [
                 "can i buy tickets for tomorrow evening",
                 "can i buy tickets for tomorrow evening please",
                 "can i buy tickets for tomorrow night",
@@ -46629,7 +46424,6 @@
                 "yes i'd like tickets for tomorrow night",
                 "yes i'd like tickets for tomorrow night please"
             ]
-        ]
     },
     {
         "prompt": "Sag: Ich möchte am Montagabend gehen",
@@ -46681,7 +46475,6 @@
     {
         "prompt": "Sag: Ich möchte am Dienstagabend gehen",
         "response": [
-            [
                 "i need to go on tuesday evening",
                 "i need to go on tuesday evening please",
                 "i need to go on tuesday night",
@@ -46723,12 +46516,10 @@
                 "i would need to go tuesday night",
                 "i would need to go tuesday night please"
             ]
-        ]
     },
     {
         "prompt": "Sag: Ich möchte am Mittwochabend gehen",
         "response": [
-            [
                 "i need to go on wednesday evening",
                 "i need to go on wednesday evening please",
                 "i need to go on wednesday night",
@@ -46770,7 +46561,6 @@
                 "i would need to go wednesday night",
                 "i would need to go wednesday night please"
             ]
-        ]
     },
     {
         "prompt": "Sag: Ich möchte am Donnerstagabend gehen",
@@ -47026,21 +46816,17 @@
     {
         "prompt": "Hallo",
         "response": [
-            [
                 "good morning",
                 "hello",
                 "hi"
             ]
-        ]
     },
     {
         "prompt": "Ja",
         "response": [
-            [
                 "yes",
                 "yes please"
             ]
-        ]
     },
     {
         "prompt": "Sag: Ich möchte mit Dollars bezahlen",
@@ -47121,12 +46907,10 @@
     {
         "prompt": "Auf Wiedersehen",
         "response": [
-            [
                 "bye",
                 "bye bye",
                 "goodbye"
             ]
-        ]
     },
     {
         "prompt": "Sag: Ich habe kleinere Note",
@@ -47369,13 +47153,11 @@
     {
         "prompt": "Danke",
         "response": [
-            [
                 "thank you",
                 "thank you so much",
                 "thank you very much",
                 "thanks a lot"
             ]
-        ]
     },
     {
         "prompt": "Frag: ein Ticket nach Notting Hill",
@@ -48252,20 +48034,16 @@
     {
         "prompt": "Hallo",
         "response": [
-            [
                 "good morning",
                 "hello",
                 "hi"
             ]
-        ]
     },
     {
         "prompt": "Frag: Wo ist der Geldautomat?",
         "response": [
-            [
                 "where is the a t m"
             ]
-        ]
     },
     {
         "prompt": "Sag: Ich bezahle mit Kreditkarte",
@@ -48291,10 +48069,8 @@
     {
         "prompt": "Ja",
         "response": [
-            [
                 "yes",
                 "yes please"
             ]
-        ]
     }
 ]
