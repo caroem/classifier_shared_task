@@ -1,0 +1,3811 @@
+[
+    {
+        "prompt": "Frag: Zimmer für 4 Nächte",
+        "response": [
+            "a room for four nights",
+            "i want a room for four nights",
+            "i want a room for the next four nights",
+            "can i have a room for um four nights",
+            "i want a room for for four nights",
+            "a room for four nights please",
+            "i'd like a room for four nights",
+            "i would like a room for four nights",
+            "rooms for four nights",
+            "i like to stay four nights",
+            "i like a room for four nights",
+            "can i have a room for four nights",
+            "i'd like for four nights"
+        ]
+    },
+    {
+        "prompt": "Frag: Junior Suite",
+        "response": [
+            "junior suite",
+            "a junior suite please",
+            "i want a junior suite",
+            "a junior suite",
+            "i want junior suite",
+            "i'd like a junior suite",
+            "i need a junior suite",
+            "do you have a junior suite",
+            "can i have a junior suite"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte mit Postkarte bezahlen",
+        "response": [
+            "i would like to pay by post card",
+            "i would like to par pay pay post card",
+            "i would like a pay by post card",
+            "i would like to buy pay be post card",
+            "i would like to pay be post card",
+            "i want to pay with the post card",
+            "i want to pay with post card",
+            "i want to buy with a post card",
+            "i would like to pay with post card",
+            "i want to pay with credit card",
+            "i would i would like to pay by post card",
+            "i want pay with post card",
+            "i would like pay by post card",
+            "i would pay with the post card",
+            "i want pay with the post card",
+            "i would like to pay with the post card",
+            "i would like to pay by post c i would like to pay by post card",
+            "can i pay by post card",
+            "i want to pie with credit card",
+            "i want to pay with post cards",
+            "i would like to pay with post cards",
+            "want pay with post card",
+            "can i pay with post card please",
+            "i like to pay with a post card",
+            "i would like to pay with postcard",
+            "i would like to pay by postcard",
+            "i would like to buy with the postcard",
+            "i would like to buy with post card",
+            "i would like to buy with the post card",
+            "i want to pay by post card",
+            "i'd like to pay with by post card",
+            "i wish to pay by post card",
+            "i'd like to buy with a post card",
+            "i'd like to buy with post card",
+            "i like to buy with post card"
+        ]
+    },
+    {
+        "prompt": "Frag: Gibt es einen Coiffeur?",
+        "response": [
+            "is there a hairdresser",
+            "is there a hairdress",
+            "is there any hair stylist",
+            "there a hair stylist",
+            "do you have a hairdresser",
+            "have you got a hairdresser",
+            "is there the hairdresser",
+            "do the hotel have a hairdresser",
+            "do you have a coiffeur",
+            "is there any hairdresser"
+        ]
+    },
+    {
+        "prompt": "Frag: 5 Tickets nach London",
+        "response": [
+            "five tickets to london",
+            "i would like five tickets to london",
+            "i want fa five tickets to london",
+            "i want five tickets to london",
+            "i need five tickets to london",
+            "i need five tickets for to london",
+            "i like five tickets to london",
+            "i would like five tickets euhm to london",
+            "i'd like five tickets to london"
+        ]
+    },
+    {
+        "prompt": "Frag: ein Ticket nach London",
+        "response": [
+            "i would one ticket to london",
+            "i want a ticket to london",
+            "can i have a ticket to london",
+            "i would like one ticket to london",
+            "i would like a ticket to london",
+            "i would a ticket to london",
+            "um i need a ticket to london",
+            "i need a ticket to london",
+            "one ticket to london",
+            "i want one ticket to london",
+            "a ticket to london",
+            "i want ticket to london",
+            "have a ticket to london",
+            "do you have a ticket to london",
+            "a ticket to london please",
+            "i'd like a ticket to london"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte um 11 Uhr morgen abreisen",
+        "response": [
+            "i would like to leave tomorrow at eleven uh a m",
+            "i want to leave at eleven o'clock tomorrow",
+            "i would like to leave tomorrow at eleven a m",
+            "i want to leave at eleven o'clock in the morning morning"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich heisse Maddalena",
+        "response": [
+            "my name is maddalena"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich bin aus Spanien",
+        "response": [
+            "i am from spain",
+            "i'm from spain",
+            "mm i'm from spain",
+            "i came from spain"
+        ]
+    },
+    {
+        "prompt": "Frag: Zimmer für 6 Nächte",
+        "response": [
+            "i want a room for six nights",
+            "can i have a room for six nights",
+            "i want a room for three uh for six nights",
+            "i want a room for uh next three uh six nights",
+            "can i have a a room for the next six nights",
+            "i would like a room for six nights",
+            "i need a room for six nights",
+            "a room for six nights",
+            "room for six nights",
+            "i want room for six nights",
+            "i will a room for six nights",
+            "i have a room for six nights",
+            "a room for six nights please",
+            "do you have a room for six nights",
+            "i'd like a room for six nights"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte mit Kreditkarte bezahlen",
+        "response": [
+            "can i pay by credit card",
+            "i would like to pay by credit card",
+            "i would like to pay be credit card",
+            "i would pay with credit card",
+            "can i pay by credit cards",
+            "can i buy with cost post card",
+            "can i buy by credit card",
+            "can i buy be credit card",
+            "can i pay be credit card",
+            "can i pay be credit cards",
+            "i want with pay credit card",
+            "i want to buy with credit card please",
+            "a pay with credit card",
+            "i would buy with credit card",
+            "i would like buy with credit card",
+            "i would like to pay with the credit card",
+            "can i pay with the credit card please",
+            "i would like to pay with a credit card",
+            "i would like to buy by the credit card card",
+            "i want pay with credit card",
+            "i want to pay with credit card",
+            "can i pay with by credit card",
+            "i'd like to pay with credit card",
+            "i would you like to buy with the credit card",
+            "i would like pay with credit card",
+            "i would like to pay with the credit cards",
+            "i would like to pay with my credit card",
+            "can i pay with the credit card",
+            "i would like to pie with credit card",
+            "i would like to pie with a credit card",
+            "i want to pie with credit card",
+            "want to pay with credit card",
+            "i want to pay with my card",
+            "i want pay with card",
+            "i went to pay with (euh) credit card",
+            "i went to pay with credit card",
+            "i like buy with credit card",
+            "i would like to buy with credit card",
+            "can i pay with master card please",
+            "i want to buy with a credit card",
+            "i would like to pay by the credit card",
+            "i would like to pay by card",
+            "i would like to buy with a credit card",
+            "i would like to buy with the credit card",
+            "i would like to but with the credit card",
+            "i'd like to pay with the credit card",
+            "i want to pay by credit card",
+            "i'd like to pay by credit card",
+            "i wish to pay by credit card",
+            "i'd like to buy with a credit card",
+            "i'd like to buy with credit card"
+        ]
+    },
+    {
+        "prompt": "Frag: Gibt es einen Lebensmittelladen?",
+        "response": [
+            "is there a grocery store",
+            "is there a supermarket",
+            "is there the supermarket",
+            "is there the food store",
+            "have you got a supermarket",
+            "is there the grocery store",
+            "do the hotel have a grocery store",
+            "do the hotel have a food shop",
+            "is there a grocyocyry store",
+            "is there a food market",
+            "is there any supermarket",
+            "is there any grocery store"
+        ]
+    },
+    {
+        "prompt": "Frag: Wo ist der Lebensmittelladen?",
+        "response": [
+            "where is the grocery store",
+            "where is the grocer store",
+            "where is the grasery store",
+            "where is the supermarket"
+        ]
+    },
+    {
+        "prompt": "Frag: Zimmer für 5 Nächte",
+        "response": [
+            "i would like a room for five nights",
+            "i would like a room for five night",
+            "i want a room for five nights",
+            "can i have a room for five nights",
+            "hello i want a room for five nights",
+            "i need a room for five nights",
+            "a room for for five nights",
+            "a room for four nights five nights",
+            "i would like a room for for five five nights",
+            "i want to stay for five nights",
+            "a room for five nights",
+            "i want room for five nights",
+            "i like a room for five nights",
+            "a room for four for five nights",
+            "do you have a room for five nights",
+            "a room for five nights please",
+            "i'd like a room for five nights"
+        ]
+    },
+    {
+        "prompt": "Frag: Twinzimmer",
+        "response": [
+            "a twin room please",
+            "a twin room",
+            "i want a twin room",
+            "twin room",
+            "i would like a twin twin room",
+            "i would like twin room",
+            "i would like a twin room",
+            "can i have a twin room",
+            "i like a twin room",
+            "do you have a twin room",
+            "twin room please"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich heisse Sarah",
+        "response": [
+            "my name is sarah"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich bin aus der Türkei",
+        "response": [
+            "i'm from turkey",
+            "i am from tur turkey",
+            "i'm from tuh turkey",
+            "i am from turkey",
+            "i come from turkey"
+        ]
+    },
+    {
+        "prompt": "Sag: Die Hauptstadt von der Türkei ist Ankara",
+        "response": [
+            "the capital country of turkey is ankara",
+            "the capital of turkey is ankara"
+        ]
+    },
+    {
+        "prompt": "Frag: Zimmer für 3 Nächte",
+        "response": [
+            "i would like a room for three nights become",
+            "i would like a room for three nights",
+            "i like to have a room for three nights",
+            "i want to have a room for three nights",
+            "i want to like a room for three nights",
+            "can i have a room for three nights",
+            "I want a um room for three nights",
+            "i want a room for three nights please",
+            "i want a room for three nights",
+            "i want a room for three three nights",
+            "a room for three nights",
+            "i'd like a room for three nights",
+            "could i have a room for three nights",
+            "i will a room for three nights",
+            "i want a room for dree nights",
+            "i like a room for three nights",
+            "a room for three nights please"
+        ]
+    },
+    {
+        "prompt": "Frag: Einzelzimmer",
+        "response": [
+            "a single room",
+            "single room",
+            "can i have a single room",
+            "a single room please",
+            "i want a single room please",
+            "i want a single room",
+            "i'd like a single room please",
+            "um i'd like a single room",
+            "i'd like a single room",
+            "single room please",
+            "i would like a single room",
+            "i would like a single room please",
+            "can i have a room for one person",
+            "i would like single room",
+            "a room for a person",
+            "i want a room for one person",
+            "i want a room for one people",
+            "i like a single room",
+            "you have single room",
+            "do you have a single room"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte mit Schweizer Franken bezahlen",
+        "response": [
+            "can i pay by swiss franc",
+            "can i pay a swiss franc",
+            "can i pay with swiss francs",
+            "i pay with swiss francs",
+            "i would like to pay with swiss swiss francs",
+            "i would pay with swiss francs",
+            "i'd like to pay with swiss francs",
+            "i want to pay with swiss francs",
+            "i would like to pay with swiss francs",
+            "i would like to buy with swiss francs",
+            "ok i would like to pay with swiss francs",
+            "i wish to pay with swiss francs",
+            "i'd like to buy with francs",
+            "i like to buy with swiss francs"
+        ]
+    },
+    {
+        "prompt": "Frag: Gibt es eine Hotelbar?",
+        "response": [
+            "is there the hotel bar",
+            "is there a hotel bar",
+            "do you have a hotel bar",
+            "do the hotel have a bar",
+            "do the hotel have a hotel bar",
+            "there a hotel bar"
+        ]
+    },
+    {
+        "prompt": "Frag: Zimmer für 2 Nächte",
+        "response": [
+            "i would like a room for two nights",
+            "i would like an room for two nights",
+            "i want a room for two nights",
+            "i want an room for two nights",
+            "have you a room for two nights",
+            "i'd like a room for two nights",
+            "i need a room for two nights",
+            "one room for two nights",
+            "can i have a room for two nights",
+            "a room for two nights",
+            "i want to stay for two nights",
+            "i want room for two nights",
+            "do you have a room for two nights"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte mit Visa bezahlen",
+        "response": [
+            "i would like to pay by like visa",
+            "i would like to pay with visa",
+            "can i buy be visa",
+            "can i pay with visa",
+            "um i want to pay with visa",
+            "i want to pay with visa",
+            "i i i want to pay with visa",
+            "i would like to buy with visa",
+            "i will i would like to pay with visa",
+            "i would like to pay by visa",
+            "i would like pay with visa",
+            "i'd like to pay with visa",
+            "can i pay pay with visa",
+            "i want pay by visa i want pay by visa",
+            "can i pay by visa",
+            "can i pay with chisa visa",
+            "can i pay visa",
+            "i like to pay with visa is that ok",
+            "i like to pay with visa",
+            "can i pay with the visa card",
+            "i would like to pay with the visa card",
+            "i would like to pay with the visa",
+            "i'd like to pay with with visa",
+            "i want to pay by visa card",
+            "can i pay by with visa",
+            "i want to pay by visa",
+            "i wish to pay by visa card",
+            "i'd like to buy with visa"
+        ]
+    },
+    {
+        "prompt": "Frag: Gibt es einen Lift?",
+        "response": [
+            "is there a lift",
+            "do you uh do you have a lift",
+            "do you have a lift",
+            "is a lift in this hotel",
+            "is there the elevator",
+            "is there an elevator",
+            "are there any lift",
+            "do the hotel have a lift"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich heisse John",
+        "response": [
+            "my name is john",
+            "i'm john",
+            "i am john"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich bin aus Italien",
+        "response": [
+            "i am from italy",
+            "i come from italy",
+            "i'm come from from italy",
+            "i coming from italy",
+            "i'm from italy",
+            "i'm italian",
+            "i am from italian",
+            "i'm from italian"
+        ]
+    },
+    {
+        "prompt": "Sag: Die Hauptstadt von Italien ist Rom",
+        "response": [
+            "the capital of italy is rome",
+            "the capital for italy is rome",
+            "capital of italy is rome",
+            "the capital of for for italy is rome",
+            "the capital from italy is rome",
+            "the capital from from italia is rome",
+            "the capital of italian is rome"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich habe 3 jüngere Brüder",
+        "response": [
+            "have three younger brothers"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich gehe in die Ferien",
+        "response": [
+            "i am on holiday",
+            "i'm on holiday",
+            "i am on holidays",
+            "i'm on holidays",
+            "i'm going on holidays",
+            "i go to the holidays",
+            "holiday",
+            "i on holiday",
+            "i'm going into holidays",
+            "i going on holidays",
+            "i'm going here for a holiday",
+            "i'm come here for holiday",
+            "i go on holiday",
+            "i'm going to holiday",
+            "i got at holidays",
+            "i am making vacation",
+            "i'm going to london to make vacation"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte mit Mastercard bezahlen",
+        "response": [
+            "can i pay with master card",
+            "i would with master card pay",
+            "i would with master cards to pay",
+            "can i buy be with mastercard",
+            "can i pay be mastercard",
+            "can i pay by mastercard",
+            "i would buy with master card",
+            "i want to pay with mastercard",
+            "i want to pay with master card",
+            "can i pay mastercard",
+            "i would like to pay with mastercard",
+            "i want to pay by mastercard",
+            "can i pay with ma master card",
+            "i would like pay by mastercard",
+            "i would like pay by card",
+            "i would like pay with mastercard",
+            "i would like pay with master card",
+            "i want pay by mastercard",
+            "i would like to ha pay with mastercard",
+            "i would like to pay by master card",
+            "can i pay with master master card",
+            "i will pay with the master card",
+            "i want pay with the master card",
+            "i want pay with the mastercard",
+            "i will pay with mastercard please",
+            "i would pay with mastercard please",
+            "i want to pay with mastercard please",
+            "i would pay with mastercard",
+            "i like to pay with the mastercard",
+            "i like to pay with mastercard",
+            "i would like to pay by mastercard",
+            "can i pay with mastercard",
+            "i would like to pay with master card",
+            "i want to p i want to pay by mastercard",
+            "i want to pay with the master card",
+            "i want pay by master card",
+            "i want to pay by master card",
+            "i wish to pay with by mastercard",
+            "i wish to pay by mastercard",
+            "i wish to pay by master card",
+            "i'd like to buy with mastercard",
+            "i like to buy with mastercard"
+        ]
+    },
+    {
+        "prompt": "Sag: Mir geht es gut",
+        "response": [
+            "i'm fine",
+            "i am good thanks",
+            "i am fine",
+            "i'm fine thanks",
+            "i'm okay",
+            "i am good",
+            "i'm good",
+            "fine",
+            "i am well",
+            "i'm fine thank you"
+        ]
+    },
+    {
+        "prompt": "Frag: Stiefel",
+        "response": [
+            "i want boots",
+            "i would like some boots",
+            "i'd like some boots",
+            "i would like to buy some boots",
+            "i would like boots",
+            "um i want boots",
+            "i want some boots",
+            "i'd like boots",
+            "i am looking for boots",
+            "i need boots",
+            "could i have some boots",
+            "e would like some boots",
+            "can i have boot",
+            "i like boots"
+        ]
+    },
+    {
+        "prompt": "Frag: rote Stiefel",
+        "response": [
+            "i want red boots",
+            "i will red boots please",
+            "i will red boots",
+            "red boots please",
+            "can i have red boots",
+            "ah i want red boots",
+            "i would like red boots",
+            "i'd like red boots"
+        ]
+    },
+    {
+        "prompt": "Frag: Grösse 39",
+        "response": [
+            "thirty nine",
+            "thirty-nine"
+        ]
+    },
+    {
+        "prompt": "Frag: eine L",
+        "response": [
+            "large",
+            "i need a large",
+            "i am a large",
+            "i'm a large",
+            "can i have big",
+            "i want a big one"
+        ]
+    },
+    {
+        "prompt": "Frag: Wie viel kostet es?",
+        "response": [
+            "how much is it",
+            "how much does it cost",
+            "how much is this",
+            "how much costed this",
+            "how much cost",
+            "how much does this cost"
+        ]
+    },
+    {
+        "prompt": "Frag: braune Stiefel",
+        "response": [
+            "i want brown boots",
+            "i'd like brown boots please",
+            "brown boots please",
+            "i'd like brown boots"
+        ]
+    },
+    {
+        "prompt": "Frag: Grösse 40",
+        "response": [
+            "i need number forty",
+            "i am a forty"
+        ]
+    },
+    {
+        "prompt": "Frag: ein Wasser ohne Kohlensäure",
+        "response": [
+            "i want a water without gas",
+            "i would like a still water",
+            "i'd like a water without gas",
+            "i want a still water",
+            "i would like uh water only sparkling",
+            "can i have water without gas"
+        ]
+    },
+    {
+        "prompt": "Frag: eine Fanta",
+        "response": [
+            "i want a fanta",
+            "i would like a fanta",
+            "i'd like a fanta"
+        ]
+    },
+    {
+        "prompt": "Frag: ein Steak",
+        "response": [
+            "i want the steak",
+            "i want a steak",
+            "i want this steak",
+            "i'd like a steak",
+            "i will have the steak",
+            "i will have a steak",
+            "i'd like the steak",
+            "i would like the steak",
+            "i would like a steak",
+            "i would like to have a steak",
+            "i would like the steek",
+            "i would like the steek please"
+        ]
+    },
+    {
+        "prompt": "Frag: mein Steak blau",
+        "response": [
+            "i want my steak blue",
+            "i want my blue steak",
+            "i would like my steak blue",
+            "i want my steek blue"
+        ]
+    },
+    {
+        "prompt": "Frag: ein Wasser mit Kohlensäure",
+        "response": [
+            "i want a carbonated water",
+            "i would like a soda water",
+            "i want the carbonants water",
+            "i would like a sparkling water",
+            "i would like a water with carbonated",
+            "i would like a water with carbonator",
+            "yes i'd like water with bubbles"
+        ]
+    },
+    {
+        "prompt": "Frag: mein Steak rare",
+        "response": [
+            "steak rare",
+            "i want my steak rare",
+            "i like my steak rare",
+            "would like my steak rare",
+            "i would like my steak rare",
+            "i would like steak rare",
+            "i want my steak rare cooked"
+        ]
+    },
+    {
+        "prompt": "Frag: Karroten",
+        "response": [
+            "i want some carrots",
+            "i would like some carrots",
+            "i would like carrots",
+            "yes i'd like the carrots",
+            "i would like the carrots"
+        ]
+    },
+    {
+        "prompt": "Frag: eine Cola",
+        "response": [
+            "i want a coke",
+            "i will have a coke",
+            "i would like a coke",
+            "i'd like a coke"
+        ]
+    },
+    {
+        "prompt": "Frag: Suite",
+        "response": [
+            "i like a suite",
+            "can i have a suite",
+            "i would like a suite",
+            "i want a suite",
+            "a suite",
+            "a suite please",
+            "do would like a suite",
+            "i want suite",
+            "i would like a suite rooom",
+            "i want a suite please",
+            "i would like suites",
+            "do you have a suite"
+        ]
+    },
+    {
+        "prompt": "Frag: Wo ist die Hotelbar?",
+        "response": [
+            "is there hotel bar",
+            "where is the hotel bar"
+        ]
+    },
+    {
+        "prompt": "Frag: Zimmer für 1 Woche",
+        "response": [
+            "i want a room for one week",
+            "can i have a room for one week",
+            "a room for one week please",
+            "i would like a room for one week",
+            "a room for one week",
+            "i want a room for one one week",
+            "i want take a room for one week"
+        ]
+    },
+    {
+        "prompt": "Frag: Grösse 38",
+        "response": [
+            "i want a thirty eight",
+            "thirty eight",
+            "thirty-eight",
+            "i am a thirty-eight"
+        ]
+    },
+    {
+        "prompt": "Frag: Hosen",
+        "response": [
+            "i need some trousers",
+            "i am looking for trousers",
+            "i'd like trousers",
+            "i want some pants",
+            "can i have trousers",
+            "i would like pants"
+        ]
+    },
+    {
+        "prompt": "Frag: ein Ticket zum Green Park",
+        "response": [
+            "i need a ticket to green park",
+            "i want a ticket to green park",
+            "i would like a ticket to the green park",
+            "i want tickets to the green park",
+            "i want a tick i want one ticket to green park",
+            "i want a ticket i want a i want a ticket to green park",
+            "i would like a ticket to green park",
+            "i need a ticket to the green park",
+            "could you give me a ticket to green park",
+            "a ticket to green park",
+            "a ticket to the green park",
+            "i want a ticket to the green park",
+            "can i have a ticket to green park"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte mit Dollars bezahlen",
+        "response": [
+            "can i pay with dollars",
+            "can i pay by dollars",
+            "i would buy with dollars",
+            "i would like to pay with dollars",
+            "ok i want to pay with dollars",
+            "i want to pay with dollars",
+            "i will buy with dollars",
+            "can i pay in dollars",
+            "i would like to buy with dollars",
+            "i wish to pay with dollars",
+            "i'd like to buy with dollars"
+        ]
+    },
+    {
+        "prompt": "Frag: ein Ticket zum Trafalgar Square",
+        "response": [
+            "i need a ticket to trafalgar square",
+            "i would like one ticket to trafalgar square",
+            "i want a ticket to the trafalgar square",
+            "can i have a ticket for the trafalgar square",
+            "i like a ticket to trafalgar square",
+            "i want a ticket to trafalgar square",
+            "i'd like a ticket for the trafalgar square",
+            "ticket to trafalgar square",
+            "do you have a ticket to tal trafalgar square",
+            "can i have a ticket to trafalgar square",
+            "i'd like a ticket to trafalgar square"
+        ]
+    },
+    {
+        "prompt": "Frag: ein Ticket zum Piccadilly Circus",
+        "response": [
+            "i would like a ticket to piccadilly circus",
+            "i would like a ticket to pic pic deli circus",
+            "i would like one ticket to piccadilly circus",
+            "ticket to the piccadilly circus picadilly",
+            "ticket to the circus piccadilly",
+            "i want ticket to pick piccadilly circus",
+            "i want a ticket to the piccadilly circus",
+            "i want a ticket to piccadilly circus",
+            "i want one ticket to piccadilly circus",
+            "i would like to have a ticket to the piccadilly circus",
+            "i'd like tickets for the piccadilly circus",
+            "i would like tickets for the piccadilly circus",
+            "i want tickets for the piccadilly circus",
+            "i'd like a ticket for the piccadilly circus",
+            "i'd like a ticket to the piccadilly circus please",
+            "i would like a ticket for the piccadilly circus"
+        ]
+    },
+    {
+        "prompt": "Frag: Gibt es ein Fitnessstudio?",
+        "response": [
+            "have it a fitness studio",
+            "have it a fitness centre",
+            "is there a fitness centre",
+            "is there the fitness centre",
+            "is there the fitness studio",
+            "is in the hotel a fitness studio",
+            "is there any fitness room",
+            "is there a fitness room",
+            "there a fitness room",
+            "is there a fitness studio",
+            "is there a gym",
+            "are there a gymnastics studio",
+            "is there an gymnastics studio",
+            "do it have a gym",
+            "is there a gym room",
+            "do you have a fitness room",
+            "there a fitness studio",
+            "have fitness studio"
+        ]
+    },
+    {
+        "prompt": "Frag: Wo ist das Fitnessstudio?",
+        "response": [
+            "where are the fitness centre",
+            "where is the fitness centre",
+            "where is the fitness studio",
+            "where is the fit fit fitness room please",
+            "where is the fitness room",
+            "where is the gym",
+            "and where is the gym room"
+        ]
+    },
+    {
+        "prompt": "Frag: 4 Tickets nach London",
+        "response": [
+            "can i have four tickets to london",
+            "i would like four tickets to london",
+            "i would like four tickets for london please",
+            "i want four tickets to london",
+            "four tickets to london",
+            "four tickets to london please",
+            "can i have for tickets to london",
+            "i need four tickets to london",
+            "i want four tickets to london please",
+            "i'd like four tickets to london"
+        ]
+    },
+    {
+        "prompt": "Frag: 2 Tickets nach London",
+        "response": [
+            "can i have two tickets to london",
+            "i want two tickets to london",
+            "would like two tickets to london",
+            "i would like two tickets to london",
+            "i'd like two tickets to london",
+            "two tickets to euh beh two tickets to london please"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte um 13 Uhr morgen abreisen",
+        "response": [
+            "i want to leave tomorrow at one p m",
+            "want to leave tomorrow one o'clock",
+            "i would like to leave tomorrow at one p m",
+            "i would like to leave at one p m tomorrow",
+            "i would like to leave tomorrow one p m"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich heisse Michelle",
+        "response": [
+            "my name is michelle"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte am Freitagabend abreisen",
+        "response": [
+            "i want to leave on friday evening",
+            "i want to leave at friday evening",
+            "i would like to leave on friday evening",
+            "i want to leave at friday night",
+            "i want to leave friday night",
+            "i would like to leave at friday night"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich bin aus Amerika",
+        "response": [
+            "i'm from america",
+            "i am from america",
+            "i am from the u s a",
+            "i'm from the united states",
+            "i come from america"
+        ]
+    },
+    {
+        "prompt": "Frag: Doppelzimmer",
+        "response": [
+            "i would like a double room",
+            "i want a double room",
+            "a double room",
+            "i would like double room",
+            "a double room please",
+            "i want a double",
+            "can i have a double room",
+            "double room",
+            "could i have a double room",
+            "i want a twin room please",
+            "do you have a double room",
+            "a room for two",
+            "a twin room"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte am Samstagnachmittag abreisen",
+        "response": [
+            "i would like to leave on saturday afternoon",
+            "i would like to leave a saturday afternoon",
+            "i would like to leave on saturday in the afternoon",
+            "i want to leave at saturday afternoon",
+            "i want to leave saturday afternoon"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich heisse Mona",
+        "response": [
+            "my name is mona"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich bin aus der Schweiz",
+        "response": [
+            "i am from switzerland",
+            "i'm from switzerland",
+            "i'm swiss",
+            "i come from switzerland"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich heisse Paolo",
+        "response": [
+            "my name is paolo",
+            "my name is paula paolo"
+        ]
+    },
+    {
+        "prompt": "Sag: Die Hauptstadt von der Schweiz ist Bern",
+        "response": [
+            "the capital of switzerland is bern",
+            "the capital from switzerland is bern",
+            "the capital city of switzerland is bern"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich habe 4 jüngere Schwestern",
+        "response": [
+            "i have four younger sisters",
+            "i have got four smaller sisters"
+        ]
+    },
+    {
+        "prompt": "Sag: Dies ist mein Pass",
+        "response": [
+            "this is my passport",
+            "it's my passport",
+            "yes it is my passport",
+            "this here is my pass",
+            "yes it's my passport",
+            "yes this is my passport",
+            "that's my passport",
+            "yes this that's my passport",
+            "this my passport",
+            "that is my passport",
+            "oh this is my passport",
+            "yes yes it's my passport",
+            "it is my passport",
+            "that'y my passport"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte mit Euros bezahlen",
+        "response": [
+            "can i pay with euros",
+            "can i pay with euros please",
+            "i would like to pay with euros",
+            "i would like to buy by euros",
+            "i want to pay with euros",
+            "i want to pay with euro",
+            "i would like pay with euro",
+            "i'd like to pay with euros",
+            "i'd like to pay with euro",
+            "i'd like to buy with euro",
+            "i would like to buy with euros"
+        ]
+    },
+    {
+        "prompt": "Frag: Zimmer für 7 Nächte",
+        "response": [
+            "i want a room for seven nights",
+            "a room for seven nights",
+            "room for seven nights",
+            "i need a room for seven nights",
+            "room for the seven nights",
+            "for seven nights please",
+            "i would like a room for seven nights",
+            "i need a hotel room for seven nights",
+            "could i have a room for seven nights",
+            "are would like a room for seven nights",
+            "can i have a room for seven nights",
+            "i would like to stay for seven nights",
+            "i'd like to stay for seven nights",
+            "i'd like a room for seven nights"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte morgen abreisen",
+        "response": [
+            "i would like to leave tomorrow"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich heisse Andrew",
+        "response": [
+            "my name is andrew",
+            "my name is andrew (laughs) name is"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich bin aus England",
+        "response": [
+            "i am from england",
+            "i'm from england",
+            "i come from england"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich bin aus Australien",
+        "response": [
+            "i am from australia",
+            "i'm from australia",
+            "i am from australian"
+        ]
+    },
+    {
+        "prompt": "Frag: Gibt es ein Hotelrestaurant?",
+        "response": [
+            "is there the hotel restaurant",
+            "is there a hotel restaurant",
+            "is there any hotel restaurant",
+            "is here a hotel restaurant",
+            "is there a hotelrestaurant",
+            "does the hotel have a restaurant",
+            "do the hotel have a hotel restaurant"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte am Mittwochabend abreisen",
+        "response": [
+            "i want to leave on wednesday evening",
+            "i want to leave wednesday evening",
+            "i would like to leave at wednesday evening"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich heisse Patrick",
+        "response": [
+            "my name is patrick"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich bin aus Österreich",
+        "response": [
+            "i'm from austria",
+            "i am from austria",
+            "i come from austria"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich heisse Andy",
+        "response": [
+            "my name is andy"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte um 17 Uhr morgen abreisen",
+        "response": [
+            "i want to leave tomorrow at five o'clock",
+            "i would to leave tomorrow at five o'clock",
+            "i want to leave at seventeen o'clock tomorrow"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte um 19 Uhr morgen abreisen",
+        "response": [
+            "i want to leave tomorrow at seven o'clock",
+            "i want to leave at seven o'clock tomorrow",
+            "i would like to leave tomorrow on seven o'clock"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich heisse Silvia",
+        "response": [
+            "my name is silvia",
+            "my name is sylvia",
+            "my name silvia"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich heisse Paul",
+        "response": [
+            "my name is paul"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich bin aus Kanada",
+        "response": [
+            "i am from canada",
+            "i'm from canada",
+            "i'm canedian",
+            "i from canada"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte um 16 Uhr morgen abreisen",
+        "response": [
+            "i want to leave tomorrow at four o'clock",
+            "i would like to leave tomorrow uh at four",
+            "i would leave  at four o'clock p m",
+            "i would like to leave tomorrow at four o'clock p m",
+            "i want leave tomorrow at four o'clock"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich heisse Erica",
+        "response": [
+            "my name is erica"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich heisse Thomas",
+        "response": [
+            "my name is thomas"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich bin aus Frankreich",
+        "response": [
+            "i am from france",
+            "i'm am from france",
+            "i'm from france",
+            "i'm from french",
+            "i from france",
+            "i'm from i'm from france",
+            "i come from france"
+        ]
+    },
+    {
+        "prompt": "Sag: Die Hauptstadt von Frankreich ist Paris",
+        "response": [
+            "the capital of france is paris",
+            "capital of france is paris",
+            "the capital city of france is paris",
+            "the capital from france is paris",
+            "the kip the capital of france is paris"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich habe 3 jüngere Schwestern",
+        "response": [
+            "i've got three ruh younger sis sisters",
+            "i have three younger sisters",
+            "i have got three young sisters"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich habe 2 jüngere Brüder",
+        "response": [
+            "i have two younger brothers"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich habe 1 Schwester",
+        "response": [
+            "i have one sister",
+            "i have got one sister"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich heisse Barbara",
+        "response": [
+            "my name is barbara"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich habe 3 Brüder",
+        "response": [
+            "i have three brothers"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich habe 2 ältere Brüder",
+        "response": [
+            "i have two older brothers"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich habe eine ältere Schwester",
+        "response": [
+            "i have one older sister"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich habe 2 ältere Schwestern",
+        "response": [
+            "i have two older sisters",
+            "i have got two big sisters"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich heisse James",
+        "response": [
+            "my name is james"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich heisse Jack",
+        "response": [
+            "my name is jack"
+        ]
+    },
+    {
+        "prompt": "Frag: ein Ticket für Sonntagabend",
+        "response": [
+            "i want a ticket on sunday evening",
+            "i want one ticket for sunday night"
+        ]
+    },
+    {
+        "prompt": "Frag: ein Ticket für Mamma Mia",
+        "response": [
+            "i want one ticket for mamma mia",
+            "have a ticket for mamma mia",
+            "do you have a ticket for mamma mia",
+            "a ticket for mamma mia"
+        ]
+    },
+    {
+        "prompt": "Frag: Tickets für das Science Museum",
+        "response": [
+            "i would like tickets for the science museum",
+            "and um can i have tickets for the science museum",
+            "i want tickets for the science museum",
+            "tickets for the science museum",
+            "like a ticket for the science museum",
+            "do you have tickets for the science museum",
+            "can i also have tickets for the science museum",
+            "have you got tickets for the science museum",
+            "i'd like tickets for the science museum",
+            "can i have tickets for the science museum"
+        ]
+    },
+    {
+        "prompt": "Frag: 1 Ticket",
+        "response": [
+            "one ticket",
+            "i would like one ticket",
+            "i need one ticket",
+            "i would like one ticket ticket",
+            "i want one ticket",
+            "one ticket please",
+            "can i have one ticket",
+            "i'd like one ticket"
+        ]
+    },
+    {
+        "prompt": "Frag: einen Orangensaft",
+        "response": [
+            "i would like one orange juice",
+            "i would like an orange juice",
+            "i want an orange juice",
+            "i would like a orange juice",
+            "could i have a orange juice",
+            "i'd like an orange juice"
+        ]
+    },
+    {
+        "prompt": "Frag: einen Hamburger",
+        "response": [
+            "i would like an hamburger",
+            "i would like a hamburger",
+            "i want a hamburger",
+            "i'd like a hamburger",
+            "i'd like an hamburger"
+        ]
+    },
+    {
+        "prompt": "Frag: meinen Hamburger medium",
+        "response": [
+            "i would like a hamburger medium",
+            "i would like my hamburger medium",
+            "i want my hamburger medium",
+            "i'd like my hamburger medium"
+        ]
+    },
+    {
+        "prompt": "Frag: Pilze",
+        "response": [
+            "some mushroom",
+            "yes i would like mushrooms",
+            "i would like mushrooms",
+            "i'd like some mushrooms please"
+        ]
+    },
+    {
+        "prompt": "Frag: Wo ist die National Gallery?",
+        "response": [
+            "where is the national nash national gallery",
+            "where is the national gallery",
+            "i am looking for the national gallery",
+            "where is the national gal gallery"
+        ]
+    },
+    {
+        "prompt": "Frag: Wo ist Piccadilly Circus?",
+        "response": [
+            "where is the piccadilly circus",
+            "where is piccadilly circus",
+            "where is the piccadilly cirque"
+        ]
+    },
+    {
+        "prompt": "Frag: Welcher Bus fährt dorthin?",
+        "response": [
+            "which bus go there",
+            "which bus goes there",
+            "which bus should i take",
+            "which bus drives there",
+            "which bus drives this way",
+            "which bus goes there nigger"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich habe keine Reservation",
+        "response": [
+            "i have no reservation",
+            "no i don't no have a reservation",
+            "i haven't got a reservation",
+            "no i don't not have a reservation",
+            "i don't reservation",
+            "no i don't note have a reservation",
+            "no i do not have a reservation",
+            "no i don't have a reservation",
+            "no i haven't got a reservation",
+            "i don't have a reservation",
+            "no i don't have no i do not have a reservation",
+            "no i do not a reservation",
+            "i have no uh reservation",
+            "i no have a reservation",
+            "i have not a reservation",
+            "i have not reservation",
+            "do not have a reservation",
+            "no i do have not a reservation",
+            "i don't have any reservation",
+            "i don't have any reservation i don't have any reservation",
+            "i do not have a reservation",
+            "i do i do not have a reservation",
+            "i have no room reservation",
+            "no i haven't a reservation",
+            "no i have no reservation",
+            "no i have not a reservation",
+            "i haven't got any reservation",
+            "no i haven't got any reservation",
+            "i have not got a reservation",
+            "sorry i don't have a reservation",
+            "i don't have got a reservation"
+        ]
+    },
+    {
+        "prompt": "Frag: Wo ist der Lift?",
+        "response": [
+            "where is the lift",
+            "where is the elevator",
+            "where is the  lift"
+        ]
+    },
+    {
+        "prompt": "Frag: Wo ist der Coiffeur?",
+        "response": [
+            "where is the hairdresser",
+            "where where is the hairdresser"
+        ]
+    },
+    {
+        "prompt": "Frag: Gibt es ein Schwimmbad?",
+        "response": [
+            "is here a swimming pool",
+            "um does it have a swimming pool",
+            "does it have a swimming pool",
+            "is there a swimming pool",
+            "is there swimming pool",
+            "is there a swimming room",
+            "is there a pool"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich bin aus Schottland",
+        "response": [
+            "i'm from scotland",
+            "i am from scotland",
+            "i from scotland",
+            "i come from scotland"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich heisse Stephanie",
+        "response": [
+            "my name is stephanie"
+        ]
+    },
+    {
+        "prompt": "Sag: Die Hauptstadt von Österreich ist Wien",
+        "response": [
+            "the capital of austria is vienna",
+            "the capital of austria is wien"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich habe 3 ältere Brüder",
+        "response": [
+            "i have three older brothers"
+        ]
+    },
+    {
+        "prompt": "Sag: Mein WC ist dreckig",
+        "response": [
+            "my toilet is dirty"
+        ]
+    },
+    {
+        "prompt": "Frag: Wo ist der Haarföhn?",
+        "response": [
+            "where can i find a hairdryer (noises) where can i find a hairdryer",
+            "where is the hairdryer",
+            "do you have a hairdryer",
+            "where is the haardryer",
+            "where i can can i find the hairdryer",
+            "where can i find the hairdryer",
+            "where is a hairdryer"
+        ]
+    },
+    {
+        "prompt": "Frag: Wo ist das Hotelrestaurant?",
+        "response": [
+            "where is the hotel restaurant",
+            "and where is the hotel restaurant"
+        ]
+    },
+    {
+        "prompt": "Frag: 3 Tickets nach London",
+        "response": [
+            "i want three three tickets to london",
+            "i want three tickets to london",
+            "i would like three tickets to london",
+            "three tickets at london",
+            "i would like three tickets for london",
+            "three tickets to london",
+            "i would like three tickets to london please",
+            "i would like two three tickets to london",
+            "i want three tickets to london please",
+            "i'd like three tickets to london"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte um 10 Uhr morgen abreisen",
+        "response": [
+            "i want to leave at ten o'clock tomorrow",
+            "i would like to leave tomorrow at ten a m"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich bin aus Portugal",
+        "response": [
+            "i'm from portugal",
+            "i am from portugal",
+            "i'm from from from portugal"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte am Samstag abreisen",
+        "response": [
+            "i want leave at saturday",
+            "i would like to leave on saturday"
+        ]
+    },
+    {
+        "prompt": "Frag: Sandalen",
+        "response": [
+            "i want sandals",
+            "i am looking for sandals",
+            "i'd like sandals",
+            "i would like sandals",
+            "i'm looking for sandals"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte um 8 Uhr morgen abreisen",
+        "response": [
+            "i want to leave at eight o'clock tomorrow",
+            "i want to leave at eight o'clock morning"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte am Sonntagnachmittag abreisen",
+        "response": [
+            "i would like to leave on sunday afternoon",
+            "i want to leave at sunday afternoon"
+        ]
+    },
+    {
+        "prompt": "Frag: ein Ticket nach Notting Hill",
+        "response": [
+            "i want a ticket to notting hill",
+            "i would like to have a ticket to notting hill",
+            "could i have a ticket to notting hill",
+            "i would like a ticket to notting hill",
+            "i would like to have a ticket to the notting hill",
+            "a ticket to notting hill",
+            "i'd like a ticket to notting hill"
+        ]
+    },
+    {
+        "prompt": "Frag: blaue Sandalen",
+        "response": [
+            "i'm looking blue sandals",
+            "blue sandals please blue sandals please",
+            "i'd like blue sandals",
+            "blue sandals please",
+            "i would like blue sandals"
+        ]
+    },
+    {
+        "prompt": "Frag: Grösse 37",
+        "response": [
+            "i am a thirty-seven",
+            "i am thirty-seven",
+            "i need thirty seven",
+            "i am a thirty seven",
+            "thirty-seven"
+        ]
+    },
+    {
+        "prompt": "Frag: grüne Hosen",
+        "response": [
+            "green trousers please"
+        ]
+    },
+    {
+        "prompt": "Frag: eine S",
+        "response": [
+            "small",
+            "i am a small",
+            "ah can i  have small",
+            "can i have small",
+            "i need a small"
+        ]
+    },
+    {
+        "prompt": "Frag: Grösse 44",
+        "response": [
+            "i am a forty-four",
+            "forty four",
+            "i am a forty four",
+            "a forty four",
+            "forty-four"
+        ]
+    },
+    {
+        "prompt": "Sag: Dies ist zu gross",
+        "response": [
+            "this is too big",
+            "this is too large",
+            "it is too large"
+        ]
+    },
+    {
+        "prompt": "Sag du möchtest nicht: diese Jeans",
+        "response": [
+            "i do not want these jeans",
+            "i don't want these jeans",
+            "i don't want those jeans"
+        ]
+    },
+    {
+        "prompt": "Sag",
+        "response": [
+            "i am one room is",
+            "no i do not want it",
+            "no i do not want this",
+            "i don't want this",
+            "no i *** *** pay with",
+            "i do not want that",
+            "no i *** don't want it",
+            "i *** *** want ***",
+            "sorry i don't want this shirt"
+        ]
+    },
+    {
+        "prompt": "Frag: 6 Tickets nach London",
+        "response": [
+            "can i buy six tickets to london",
+            "i want six tickets to london",
+            "i would like six tickets to london",
+            "could i have six tickets to london",
+            "i'd like six tickets to london",
+            "can i have six tickets to london"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich heisse Nick",
+        "response": [
+            "my name is nick"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich bin aus Irland",
+        "response": [
+            "i'm from ireland",
+            "i am from ireland",
+            "i'm from ireland wazza",
+            "i'm from irland",
+            "my nationality is irland"
+        ]
+    },
+    {
+        "prompt": "Frag: weisse Sandalen",
+        "response": [
+            "do you have white sandals",
+            "i would like white sandals"
+        ]
+    },
+    {
+        "prompt": "Frag: Grösse 36",
+        "response": [
+            "i am a thirty-six",
+            "thirty six",
+            "i am a thirty six",
+            "thirty-six"
+        ]
+    },
+    {
+        "prompt": "Frag: ein T-Shirt",
+        "response": [
+            "i would like a t-shirt",
+            "i would like a tee shirt",
+            "i would like tee shirt",
+            "i want a tee shirt",
+            "i want a t-shirt",
+            "i'm looking for a t-shirt"
+        ]
+    },
+    {
+        "prompt": "Frag: Ich möchte die Rechnung",
+        "response": [
+            "can i have the bill",
+            "i would like the bill",
+            "i would like the check",
+            "i want the bill",
+            "can i have the bill please",
+            "i want the bills",
+            "i want the invoice",
+            "i would like the bill please"
+        ]
+    },
+    {
+        "prompt": "Frag: Grösse 43",
+        "response": [
+            "i'm a forty-three",
+            "i am a forty-three",
+            "forty three",
+            "i am a forty three",
+            "forty-three"
+        ]
+    },
+    {
+        "prompt": "Frag: ein Hemd",
+        "response": [
+            "i want a shirt",
+            "can i have a shirt",
+            "i'd like a shirt",
+            "i would like a shirt"
+        ]
+    },
+    {
+        "prompt": "Frag: ein pinkiges Hemd",
+        "response": [
+            "a pink shirt please"
+        ]
+    },
+    {
+        "prompt": "Sag: Das Hemd ist zu teuer",
+        "response": [
+            "the shirt is too expensive"
+        ]
+    },
+    {
+        "prompt": "Frag: rote Sandalen",
+        "response": [
+            "i'd like red sandals",
+            "i would like red sandals",
+            "red sandals please",
+            "i would i would like red sandals",
+            "i want red sandals",
+            "i want some red sandals"
+        ]
+    },
+    {
+        "prompt": "Frag: Grösse 41",
+        "response": [
+            "i am a forty-one",
+            "forty one",
+            "i am a forty one",
+            "forty-one"
+        ]
+    },
+    {
+        "prompt": "Frag: rote Hosen",
+        "response": [
+            "red trousers please",
+            "i want red trousers"
+        ]
+    },
+    {
+        "prompt": "Frag: Wie viel kostet die Hose?",
+        "response": [
+            "how much does the trousers cost"
+        ]
+    },
+    {
+        "prompt": "Sag: Die Hose ist zu teuer",
+        "response": [
+            "no thank you the trousers is too expensive",
+            "this trousers are too expensive",
+            "the trousers are too much"
+        ]
+    },
+    {
+        "prompt": "Frag: ein Sweatshirt",
+        "response": [
+            "i would like a sweatshirt",
+            "can i have a sweatshirt",
+            "i want the sweatshirt",
+            "i want a sweatshirt",
+            "i would like i would like a sweatshirt",
+            "i would like a sweetshirt",
+            "i'd like a sweatshirt"
+        ]
+    },
+    {
+        "prompt": "Frag: ein rotes Sweatshirt",
+        "response": [
+            "i'd like a red sweatshirt",
+            "i want a red sweatshirt",
+            "i would like a red sweatshirt"
+        ]
+    },
+    {
+        "prompt": "Sag: Mein Zimmer ist dreckig",
+        "response": [
+            "my room is dirty",
+            "no the room is dirty"
+        ]
+    },
+    {
+        "prompt": "Sag: Im Zimmer hat es keinen Haarföhn",
+        "response": [
+            "i could not find my any hairdryer",
+            "in the room isn't got a hardryer",
+            "i could not find any hairdryer",
+            "in the room is haven't got a hairdryer",
+            "in the room there isn't a hairdryer",
+            "in the room has no hairdryer",
+            "i could not find a hairdryer",
+            "i couldn't find any hairdryer",
+            "in the room it hasn't a hairdryer",
+            "in the room it doesn't have a hairdryer",
+            "the room has not a hairdryer",
+            "it does not have a hairdryer in the room"
+        ]
+    },
+    {
+        "prompt": "Frag: Wo kann ich einen Haarföhn kaufen?",
+        "response": [
+            "where can i buy a hairdryer",
+            "where i can buy a hairdryer"
+        ]
+    },
+    {
+        "prompt": "Sag: Die Hauptstadt von Spanien ist Madrid",
+        "response": [
+            "the capital of spain is madrid",
+            "the capital from spain is madrid",
+            "the caption of spain is madrid"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich habe 4 jüngere Brüder",
+        "response": [
+            "i have four younger brothers",
+            "ah i have four young brothers",
+            "i have four young brothers",
+            "yes i've got four younger brothers"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich heisse Brian",
+        "response": [
+            "my name is brian"
+        ]
+    },
+    {
+        "prompt": "Frag: weisse Stiefel",
+        "response": [
+            "i want to buy white boots",
+            "white boots",
+            "can i have white boots",
+            "i would some white boots",
+            "i would white boots",
+            "i want white boots",
+            "i would like white boots"
+        ]
+    },
+    {
+        "prompt": "Frag: braune Hosen",
+        "response": [
+            "i am looking for brown trou trousers",
+            "i would like brown pants"
+        ]
+    },
+    {
+        "prompt": "Frag: Ich möchte die Dessertkarte",
+        "response": [
+            "i like the dessert card",
+            "i would like the dessert card",
+            "could i see the dessert menu",
+            "i would like the dessert card please",
+            "i will have the dessert card",
+            "can i have the dessert card",
+            "i'd like the dessert card",
+            "i would like a dessert card",
+            "the dessert menu",
+            "i want the dessert card",
+            "the dessert menu please",
+            "i would like a i would like a dessert card",
+            "the dessert card please",
+            "could i have the dessert card",
+            "can i see the dessert menu",
+            "i would like the dessert menu",
+            "i would like dessert menu",
+            "could i see the dessert  menu",
+            "i would like to have the dessert menu",
+            "i would like dessert card",
+            "can i have the dessert menu",
+            "i would like the desert card",
+            "i'd like the desert menu",
+            "i want the desert menu",
+            "i'd like the dessert menu",
+            "i want the dessert menu",
+            "i want a dessert card please",
+            "can i have the card for dessert",
+            "i like the card of dessert",
+            "i'd like the card of dessert",
+            "can i have the card of dessert"
+        ]
+    },
+    {
+        "prompt": "Frag: Schokoladenglace",
+        "response": [
+            "i would like the chocolate ice cream",
+            "i would like the chocolate muh ice cream",
+            "i want the chocolate ice cream",
+            "i want the chocolate ice"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte um 18 Uhr morgen abreisen",
+        "response": [
+            "i want to leave at six o'clock tomorrow",
+            "i would like to leave at eighteen o'clock tomorrow",
+            "i would like leave tomorrow at eighteen o'clock",
+            "i would like to leave tomorrow at six pm",
+            "i would like to leave at six o'clock tomorrow"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte am Samstagabend abreisen",
+        "response": [
+            "i want to leave at saturday night",
+            "i want to leave on saturday night",
+            "i would like leave on saturday evening",
+            "i would like to leave at saturday evening",
+            "i would like to leave on saturday evening"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte am Montag abreisen",
+        "response": [
+            "i want to leave on monday",
+            "i would like to leave monday"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich bin aus Deutschland",
+        "response": [
+            "i'm from germany",
+            "i am from germany",
+            "i am from german",
+            "i came from germany",
+            "i come from germany",
+            "i'm from german"
+        ]
+    },
+    {
+        "prompt": "Sag: Die Hauptstadt von Deutschland ist Berlin",
+        "response": [
+            "the capital of germany is berlin",
+            "the capital from german is berlin",
+            "the capital of german is berlin"
+        ]
+    },
+    {
+        "prompt": "Frag: Wo ist das Schwimmbad?",
+        "response": [
+            "where is the swimming pool",
+            "where is the pool"
+        ]
+    },
+    {
+        "prompt": "Frag: eine Limonade",
+        "response": [
+            "i would like a lemonade",
+            "i want a lemonade",
+            "i would like a limonade",
+            "i'd like a lemonade"
+        ]
+    },
+    {
+        "prompt": "Frag: mein Steak medium",
+        "response": [
+            "i will have the steak medium please",
+            "i would like the steak medium",
+            "i would like my steak medium",
+            "steak medium",
+            "i want it medium",
+            "i would like to have my steak medium",
+            "i would like the steak cooked medium",
+            "i want my steak cooked medium"
+        ]
+    },
+    {
+        "prompt": "Frag: mein Steak durchgebraten",
+        "response": [
+            "i will have the steak well done",
+            "i would like my steak well done",
+            "steak well done",
+            "i would like the steak well done",
+            "i want my steak well done",
+            "i'd like my steak well done"
+        ]
+    },
+    {
+        "prompt": "Frag: Apfelkuchen",
+        "response": [
+            "i will have a apple cake"
+        ]
+    },
+    {
+        "prompt": "Frag: den Sonntagsbraten",
+        "response": [
+            "i will have a sunday roast",
+            "i would like the sunday roast",
+            "i would like a sunday roast",
+            "i'd like a sunday roast",
+            "i want the sunday roast",
+            "i would like the sunday roast tags"
+        ]
+    },
+    {
+        "prompt": "Frag: meinen Sonntagsbraten durchgebraten",
+        "response": [
+            "i will have my sunday roast well done",
+            "i like my sunday roast well done",
+            "i would like my sunday roast well done",
+            "i would like my sunday row roast well done",
+            "i'd like my sunday roast well cooked",
+            "i'd like my sunday roast well done"
+        ]
+    },
+    {
+        "prompt": "Frag: eine Scotch Broth",
+        "response": [
+            "i will have scotch broth",
+            "i would like one scotch broth",
+            "can i have scotch broth",
+            "would like a scotch broth",
+            "i'd like scotch broth"
+        ]
+    },
+    {
+        "prompt": "Frag: einen Tee",
+        "response": [
+            "i will have a tea",
+            "i would like a tea",
+            "can i have a tea",
+            "i want a tea please",
+            "i would like to have a tea",
+            "i'd like a tea"
+        ]
+    },
+    {
+        "prompt": "Frag: Auberginen",
+        "response": [
+            "i will have aubergines",
+            "i would like aubergine",
+            "could i have some aubergines"
+        ]
+    },
+    {
+        "prompt": "Frag: 1 Musical-Ticket",
+        "response": [
+            "can i have one musical ticket",
+            "i want one musical ticket",
+            "i want the tickets for one musical",
+            "i would like one musical ticket",
+            "could i have one musical ticket",
+            "i like one musical ticket",
+            "do you have one musical ticket",
+            "one musical ticket",
+            "i'd like one musical ticket",
+            "one musical ticket please",
+            "i'd like one ticket for the musical"
+        ]
+    },
+    {
+        "prompt": "Frag: ein Ticket für Montagabend",
+        "response": [
+            "i would like to a ticket um for tomorrow evening",
+            "can i have a ticket for monday evening",
+            "i will have ticket for monday evening",
+            "do have a ticket for monday evening",
+            "do you have a ticket for monday evening",
+            "tickets for the monday night"
+        ]
+    },
+    {
+        "prompt": "Frag: ein Ticket für Wicked",
+        "response": [
+            "can i have a ticket for wicked"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte in der sechsten Reihe sitzen",
+        "response": [
+            "i would like sitting in the sixth row",
+            "i would sit in the sixth row",
+            "i'd like to sit in the sixth row",
+            "i would like to sit in the sixth row",
+            "i want to sit in the sixth row",
+            "i want to sit in the sixth line"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte am Freitagabend gehen",
+        "response": [
+            "i would like to go on friday evening",
+            "i want to go at friday night"
+        ]
+    },
+    {
+        "prompt": "Frag: 4 Tickets für Wicked",
+        "response": [
+            "can i have four tickets for wicked",
+            "four tickets for wicked",
+            "i want four tickets for wicked"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte in der neunten Reihe sitzen",
+        "response": [
+            "i would like to sit in the ninth row",
+            "i want sit on the nine row"
+        ]
+    },
+    {
+        "prompt": "Frag: 3 Musical-Tickets",
+        "response": [
+            "i will have three musical tickets",
+            "i want three tickets to a musical",
+            "i would like to buy three musical tickets",
+            "i would like three musical ticket",
+            "i would like three musical tickets",
+            "i want three musical tickets",
+            "three musical tickets",
+            "three musicals tickets",
+            "i would like to pie three musicial tickets",
+            "i need three musical tickets",
+            "i would like three tickets for the musical",
+            "do you have three tickets for the musical",
+            "i'd like three musical tickets",
+            "i'd like three tickets for the musical",
+            "i want three tickets for this musical"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte morgen Abend gehen",
+        "response": [
+            "i would like to go to the musical tomorrow evening",
+            "i would like to go tomorrow evening",
+            "i would like tomorrow leave"
+        ]
+    },
+    {
+        "prompt": "Frag: 3 Tickets für Billy Elliot",
+        "response": [
+            "i will have three tickets for billy elliot",
+            "three tickets for billy elliot",
+            "i want three tickets for billy elliot"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte in der zweiten Reihe sitzen",
+        "response": [
+            "i would like to sit in the second row",
+            "i want to sit on second row",
+            "i would like to sit in the second row o",
+            "i want to sit in the second row"
+        ]
+    },
+    {
+        "prompt": "Frag: 4 Tickets für König der Löwen",
+        "response": [
+            "i will have four tickets for king of the lion",
+            "can i have four tickets for king of the lion",
+            "um i will have four tickets for king of the lion",
+            "i want four tickets for king of the lion",
+            "i want four tickets for the lion king",
+            "i want four tickets for the king of the lions",
+            "four tickets for king of the lions"
+        ]
+    },
+    {
+        "prompt": "Frag: Tickets für das Naturhistorische Museum",
+        "response": [
+            "i will have tickets for the nature history museum",
+            "i want tickets for the naturality museum",
+            "i would like tickets for the national historisch museum",
+            "i would like tickets for the natural natural history museum",
+            "i would like tickets for the natural history museum",
+            "i want tickets for the nature historical museum",
+            "i would like a ticket for the natural history museum",
+            "i want a ticket for natural history museum",
+            "can i have also tickets for the natural history museum",
+            "can i also have tickets for the natural history museum",
+            "do you have a ticket for the natural history museum",
+            "can i have tickets for the natural history museum",
+            "two tickets for the natural history museum please",
+            "i'd like two tickets for the natural history museum please"
+        ]
+    },
+    {
+        "prompt": "Frag: Grösse 42",
+        "response": [
+            "can i have forty two",
+            "i would like number forty two",
+            "forty two please",
+            "i am a forty-two",
+            "forty two",
+            "forty-two"
+        ]
+    },
+    {
+        "prompt": "Frag: ein gelbes Sweatshirt",
+        "response": [
+            "i want a yellow sweatshirt"
+        ]
+    },
+    {
+        "prompt": "Sag: Das Sweatshirt ist zu teuer",
+        "response": [
+            "the sweatshirt is expensive",
+            "the sweatshirt is too expensive",
+            "this t-shirt is too expensive"
+        ]
+    },
+    {
+        "prompt": "Frag: Wie viel kostet das Sweatshirt?",
+        "response": [
+            "how much is the sweatshirt",
+            "how much costs the sweatshirt",
+            "how much is this sweatshirt"
+        ]
+    },
+    {
+        "prompt": "Sag: Dies ist zu teuer",
+        "response": [
+            "this is too expensive",
+            "it is too expensive",
+            "it costs too much",
+            "it's too expensive",
+            "that's too much"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich habe 2 jüngere Schwestern",
+        "response": [
+            "i have two younger sisters"
+        ]
+    },
+    {
+        "prompt": "Frag: blaue Stiefel",
+        "response": [
+            "i want blue boots",
+            "blue boots",
+            "i would like blue sn boots",
+            "i would like blue boots",
+            "could i have blue boots",
+            "blue boots please"
+        ]
+    },
+    {
+        "prompt": "Frag: gelbe Hosen",
+        "response": [
+            "yellow trousers",
+            "yellow pants"
+        ]
+    },
+    {
+        "prompt": "Frag: ein Ticket für Samstagabend",
+        "response": [
+            "i want one ticket for saturday evening",
+            "i like one ticket for saturday night"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte in der vierten Reihe sitzen",
+        "response": [
+            "i would like to sit in the fourth row",
+            "i want to sit in the fourth row",
+            "i'd like to sit in the fourth row",
+            "i like to sit in the fourth row"
+        ]
+    },
+    {
+        "prompt": "Frag: Tickets für das British Museum",
+        "response": [
+            "i want tickets for the british museum",
+            "i would like tickets for the british museum",
+            "can i also have tickets for the british museum",
+            "do you have tickets for the british museum",
+            "i'd like tickets for the british museum"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte am Freitagnachmittag abreisen",
+        "response": [
+            "i would like to leave on friday afternoon"
+        ]
+    },
+    {
+        "prompt": "Frag: braune Sandalen",
+        "response": [
+            "i would like brown sandals",
+            "brown sandals please"
+        ]
+    },
+    {
+        "prompt": "Sag: Die Hauptstadt von Portugal ist Lissabon",
+        "response": [
+            "the capital from portugal is lissabon",
+            "the capital from portugal is lisbon",
+            "the capital of portugal is lissabon",
+            "the capital of portugal is lisbon"
+        ]
+    },
+    {
+        "prompt": "Frag: 4 Musical-Tickets",
+        "response": [
+            "i want four musical tickets",
+            "i would like to buy four musical tickets",
+            "i want to buy four musical tickets",
+            "i would like four musical tickets",
+            "do you have four tickets for the musical",
+            "have four tickets for the musical",
+            "i'd like four musical tickets",
+            "can i have four musical tickets"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte in der siebten Reihe sitzen",
+        "response": [
+            "i would like in the seventh row sitting",
+            "i would like to sit in the seven row",
+            "i wouuld like to sit in the seventh row",
+            "i want to sit in the seven row",
+            "i want to sit in the seventh row",
+            "i'd like to sit in the seven row",
+            "i would like to sit in the seventh line"
+        ]
+    },
+    {
+        "prompt": "Frag: 3 Tickets",
+        "response": [
+            "i want three tickets",
+            "i would like three tickets",
+            "three tickets",
+            "i need three tickets",
+            "do you have three tickets",
+            "three tickets please",
+            "do you have three tickets please",
+            "can i have three tickets"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte in der zehnten Reihe sitzen",
+        "response": [
+            "i would sit in the ten row",
+            "i would like to sit in the ten row",
+            "i would like to sit in the tenth row"
+        ]
+    },
+    {
+        "prompt": "Sag: Das Badezimmer ist dreckig",
+        "response": [
+            "the bathroom is dirty"
+        ]
+    },
+    {
+        "prompt": "Frag: Haarföhn",
+        "response": [
+            "can you give me a hairdryer",
+            "where is the hairdryer",
+            "where is a hairdryer",
+            "can i have a hairdryer",
+            "hairdryer",
+            "have a hairdryer"
+        ]
+    },
+    {
+        "prompt": "Sag: Das WC ist dreckig",
+        "response": [
+            "the toilet's dirty",
+            "the toilet is dirty",
+            "the toilet isn't clean"
+        ]
+    },
+    {
+        "prompt": "Frag: ein Ticket nach Westminster",
+        "response": [
+            "can i have a ticket to westminister",
+            "i want a ticket to westminister",
+            "can we have please a ticket to westminster",
+            "i want a ticket to westminster",
+            "could you give me a ticket to westminster",
+            "i would like a ticket to westminster",
+            "i would like to have a ticket to westminster",
+            "can i have a ticket to westminster",
+            "i'd like a ticket to the westminister",
+            "i'd like a ticket to the westminster",
+            "i'd like ticket to westminster"
+        ]
+    },
+    {
+        "prompt": "Frag: ein braunes Sweatshirt",
+        "response": [
+            "i would like a brown sweatshirt"
+        ]
+    },
+    {
+        "prompt": "Frag: eine Goulasch-Suppe",
+        "response": [
+            "i want a goulash soup",
+            "i would like a goulash soup",
+            "can i have a goulash soup"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich habe einen älteren Bruder",
+        "response": [
+            "i have a big brother",
+            "i have one older brother"
+        ]
+    },
+    {
+        "prompt": "Frag: 3 Tickets für Dienstagabend",
+        "response": [
+            "i want three tickets for tuesday night"
+        ]
+    },
+    {
+        "prompt": "Frag: 3 Tickets für Starlight Express",
+        "response": [
+            "three tickets to starlight express",
+            "i want three tickets for starlight express",
+            "three tickets for starlight expr",
+            "three tickets for starlight express"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte in der Mitte sitzen",
+        "response": [
+            "i would like to sit in the middle",
+            "i want to sit in the middle"
+        ]
+    },
+    {
+        "prompt": "Frag: 4 Tickets",
+        "response": [
+            "i want four tickets",
+            "i would like four tickets",
+            "i need four tickets",
+            "could i have four tickets",
+            "do you have four tickets",
+            "four tickets please"
+        ]
+    },
+    {
+        "prompt": "Frag: Bohnen",
+        "response": [
+            "i would like some beans",
+            "i would like beans",
+            "i'd like beans"
+        ]
+    },
+    {
+        "prompt": "Sag: Dies ist nicht was ich bestellt habe",
+        "response": [
+            "this is not what i ordered",
+            "this isn't that what i order",
+            "this is not that what i order",
+            "this isn't now what i ordered to",
+            "this is not my ordered food",
+            "that isn't my ordered food",
+            "this isn't my ordered food",
+            "this isn't that food i ordered"
+        ]
+    },
+    {
+        "prompt": "Frag: Zitronenkuchen",
+        "response": [
+            "i want the lemon lemon cake",
+            "i'd like a lemon cake",
+            "i'd like the lemon cake"
+        ]
+    },
+    {
+        "prompt": "Sag: Im Zimmer hat es kein Shampoo",
+        "response": [
+            "in the room it hasn't got a shampoo",
+            "in the room there's no shampoo",
+            "in the room there is no shampoo",
+            "in the room is no shampoo",
+            "there is no shampoo in the room",
+            "my room don't have shampoo",
+            "my room has no shampoo"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte am Dienstagabend abreisen",
+        "response": [
+            "i want to leave on tuesday evening",
+            "want to leave at tuesday evening",
+            "i want to leave at tuesday evening",
+            "i'd like to leave at tuesday evening"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte am Sonntag abreisen",
+        "response": [
+            "i would like to leave on sunday"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte um 15 Uhr morgen abreisen",
+        "response": [
+            "i would like to leave at fifteen o'clock tomorrow",
+            "i want to leave at fifteen o'clock tomorrow",
+            "i would like to leave at three p m tomorrow",
+            "i want to leave at three pm tomorrow",
+            "i would like to leave at three o'clock p m tomorrow"
+        ]
+    },
+    {
+        "prompt": "Sag: Das ist okay",
+        "response": [
+            "that's okay",
+            "this is okay",
+            "that is okay",
+            "that is ok"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte am Sonntagmorgen abreisen",
+        "response": [
+            "i want to leave on sunday morning"
+        ]
+    },
+    {
+        "prompt": "Sag: Frankreich ist nicht in Afrika",
+        "response": [
+            "france is not in africa"
+        ]
+    },
+    {
+        "prompt": "Sag: Frankreich ist in Europa",
+        "response": [
+            "france is in europe"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich habe 4 ältere Brüder",
+        "response": [
+            "i have four older brothers",
+            "i have four photo i have four older brothers",
+            "i've got four elder brothers",
+            "i have got four bigger brothers"
+        ]
+    },
+    {
+        "prompt": "Frag: Erbsen",
+        "response": [
+            "i would like some peas"
+        ]
+    },
+    {
+        "prompt": "Frag: Scones",
+        "response": [
+            "i would like the scones",
+            "i would like scones",
+            "i'd like the scones"
+        ]
+    },
+    {
+        "prompt": "Frag: die Tagessuppe",
+        "response": [
+            "i would like the soup of the day",
+            "can i have the soup of the day",
+            "i want the daily soup",
+            "i want a daily soup",
+            "i want the soup of the day"
+        ]
+    },
+    {
+        "prompt": "Frag: Wo ist das London Eye?",
+        "response": [
+            "where is the london eye"
+        ]
+    },
+    {
+        "prompt": "Sag: Der Tower ist nahe der Tower Bridge",
+        "response": [
+            "the tower is near tower bridge",
+            "the tower is near the tower bridge",
+            "the tower is next to the tower bridge"
+        ]
+    },
+    {
+        "prompt": "Frag: Jeans",
+        "response": [
+            "i am looking for looking for jeans",
+            "i am looking for jeans",
+            "i would like jeans",
+            "i want some jeans",
+            "i'd like some jeans",
+            "i want jeans"
+        ]
+    },
+    {
+        "prompt": "Frag: braune Jeans",
+        "response": [
+            "brown jeans please"
+        ]
+    },
+    {
+        "prompt": "Frag: 4 Tickets für Montagabend",
+        "response": [
+            "i want four tickets for monday night"
+        ]
+    },
+    {
+        "prompt": "Frag: 4 Tickets für Starlight Express",
+        "response": [
+            "i want four tickets for starlight express",
+            "do you have four tickets for starlight express",
+            "i'd like four tickets for starlight express",
+            "can i have four tickets for starlight express"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte in der achten Reihe sitzen",
+        "response": [
+            "i want to sit in the eighth row",
+            "i would like to sit in the eighth row"
+        ]
+    },
+    {
+        "prompt": "Frag: 2 Tickets",
+        "response": [
+            "can i have two tickets",
+            "i would like two tickets",
+            "i need two tickets",
+            "i want two tickets",
+            "two tickets please",
+            "do you have two tickets",
+            "two tickets"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte mit Pfund bezahlen",
+        "response": [
+            "can i pay with pounds",
+            "can i pay with pound",
+            "i like to buy with pounds"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich habe 2 Brüder",
+        "response": [
+            "i have two brothers"
+        ]
+    },
+    {
+        "prompt": "Frag: etwas Kartoffelstock",
+        "response": [
+            "can i have mashed potato",
+            "could i have some mashed mashed potato",
+            "i'd like some mashed potatoes"
+        ]
+    },
+    {
+        "prompt": "Frag: Pommes Frittes",
+        "response": [
+            "i would like some chips",
+            "i would like french fries",
+            "i want pommes",
+            "i would like some chip"
+        ]
+    },
+    {
+        "prompt": "Frag: einen Kaffee",
+        "response": [
+            "i would like a coffee",
+            "i would like to have a coffee",
+            "i'd like a coffee"
+        ]
+    },
+    {
+        "prompt": "Frag: meinen Hamburger durchgebraten",
+        "response": [
+            "i would like my hamburger well done",
+            "i want a hamburger well done",
+            "i would like a hamburger well well done",
+            "i want my hamburger well done",
+            "i'd like my hamburger well cooked",
+            "i want my hamburger cooked through"
+        ]
+    },
+    {
+        "prompt": "Frag: einen Baked Potato",
+        "response": [
+            "a baked potato please",
+            "i want a baked potato"
+        ]
+    },
+    {
+        "prompt": "Frag: Rhabarberkuchen",
+        "response": [
+            "i would like the rhubarb pie",
+            "i want the rhabarb cake"
+        ]
+    },
+    {
+        "prompt": "Frag: etwas Knoblauchbrot",
+        "response": [
+            "i want some garlic bread",
+            "i would like some garlic bread"
+        ]
+    },
+    {
+        "prompt": "Frag: Himbeersorbet",
+        "response": [
+            "i would like the raspberry sorbet"
+        ]
+    },
+    {
+        "prompt": "Frag: ein weisses Hemd",
+        "response": [
+            "a white shirt please",
+            "i would like a white shirt"
+        ]
+    },
+    {
+        "prompt": "Sag du möchtest nicht: dieses Hemd",
+        "response": [
+            "i do not want this shirt",
+            "i don't want this shirt",
+            "i want this shirt not"
+        ]
+    },
+    {
+        "prompt": "Frag: grüne Jeans",
+        "response": [
+            "green jeans please"
+        ]
+    },
+    {
+        "prompt": "Frag: Wie viel kostet die Jeans?",
+        "response": [
+            "how much does the jeans jeans cost",
+            "how much does the jeans cost"
+        ]
+    },
+    {
+        "prompt": "Frag: weisse Jeans",
+        "response": [
+            "can i have a white jeans"
+        ]
+    },
+    {
+        "prompt": "Sag: Dies ist zu klein",
+        "response": [
+            "it is too small",
+            "it's too too small",
+            "this is too small",
+            "that's too small"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte um 21 Uhr morgen abreisen",
+        "response": [
+            "i want to leave at nine o'clock tomorrow"
+        ]
+    },
+    {
+        "prompt": "Frag: ein Ticket für Mittwochabend",
+        "response": [
+            "i would like tickets for wednesday evening",
+            "could i have a ticket for wednesday evening",
+            "i want one ticket for wednesday night"
+        ]
+    },
+    {
+        "prompt": "Frag: 1 Ticket für das Phantom der Oper",
+        "response": [
+            "i would like one ticket for the phantom der oper",
+            "a ticket for the phantom oper",
+            "a ticket of the phantom of the opera",
+            "a ticket for the phantom of the opera"
+        ]
+    },
+    {
+        "prompt": "Frag: Tickets für Madame Tussauds",
+        "response": [
+            "i would like tickets for madame tussauds",
+            "can i also have tickets for the for madame tussado",
+            "can i also have tickets for madame tussado",
+            "tickets for madame tussauds",
+            "have you got tickets for the madame tussauds",
+            "i'd like a ticket for the madame tussauds",
+            "i'd like tickets for madame tussauds"
+        ]
+    },
+    {
+        "prompt": "Frag: ein Ticket für Dienstagabend",
+        "response": [
+            "i would like one ticket for tuesday evening",
+            "i want tickets for tuesday night"
+        ]
+    },
+    {
+        "prompt": "Frag: Tickets für die National Gallery",
+        "response": [
+            "i would like tickets for the national gallery",
+            "i would like ticket for the national gallery",
+            "i want tickets for the national gallery",
+            "could i have tickets for the national gallery",
+            "tickets for the national gallery please",
+            "tickets for the national gallery",
+            "i would like tickets for national gallery",
+            "can i have tickets for national gallery",
+            "can i have tickets for the national gallery"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte am Montagabend gehen",
+        "response": [
+            "i would like to go on monday evening",
+            "i want to go at monday evening",
+            "i'd like to go monday evening"
+        ]
+    },
+    {
+        "prompt": "Frag: 3 Tickets für König der Löwen",
+        "response": [
+            "i would like three tickets for king the leo",
+            "i want three tickets for the lion king"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte am Dienstag abreisen",
+        "response": [
+            "i would like to leave on tuesday",
+            "i would like leave on tuesday"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte nächste Woche abreisen",
+        "response": [
+            "i would like leave next week",
+            "i want to leave to leave next week",
+            "i would like to leave next week",
+            "i want to leave next week"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte am Freitag abreisen",
+        "response": [
+            "i would like leave on friday"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte am Donnerstagmorgen abreisen",
+        "response": [
+            "i would like leave on thursday morning",
+            "i'd like to leave on thursday morning",
+            "i would like to leave on thursday morning",
+            "i want to leave at thursday morning"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte am Sonntagabend abreisen",
+        "response": [
+            "i would like leave on sunday evening",
+            "i would like to leave on sunday evening",
+            "i want to leave on sunday evening",
+            "i want to leave at sunday night",
+            "i want to leave sunday night"
+        ]
+    },
+    {
+        "prompt": "Frag: Custard Tart",
+        "response": [
+            "i would like the custard tart",
+            "i want the custard tart"
+        ]
+    },
+    {
+        "prompt": "Frag: meinen Sonntagsbraten rare",
+        "response": [
+            "i would like my sunday roast rare",
+            "i'd like my sunday roast rare"
+        ]
+    },
+    {
+        "prompt": "Frag: einen gemischten Salat",
+        "response": [
+            "i would like a mixed salad"
+        ]
+    },
+    {
+        "prompt": "Frag: Karrotenkuchen",
+        "response": [
+            "i would like the carrot cake",
+            "i want the carrot cake",
+            "i'd like a carrot cake"
+        ]
+    },
+    {
+        "prompt": "Frag: meinen Sonntagsbraten medium",
+        "response": [
+            "i would like my sunday roast medium",
+            "i would like the sunday roast medium"
+        ]
+    },
+    {
+        "prompt": "Frag: Trifle",
+        "response": [
+            "i would like the trifle",
+            "i'd like the trifle"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte mit dem Manager sprechen",
+        "response": [
+            "i would like speak with manager",
+            "i'd like to speak with the manager",
+            "i'd like to talk to the manager",
+            "i want to talk to the manager"
+        ]
+    },
+    {
+        "prompt": "Frag: Vanilleglace",
+        "response": [
+            "i would like the vanilla ice cream",
+            "could i have the vanilla ice cream",
+            "i want the vanilla ice cream"
+        ]
+    },
+    {
+        "prompt": "Frag: meinen Hamburger rare",
+        "response": [
+            "i would like my hamburger rare",
+            "i want my hamburger rare"
+        ]
+    },
+    {
+        "prompt": "Frag: Wo ist das Naturhistorische Museum?",
+        "response": [
+            "i'm looking for the natural history museum",
+            "where is the natural history museum",
+            "i am looking for the natural histo history museum",
+            "i am looking for the natural history museum",
+            "where is the nature history museum"
+        ]
+    },
+    {
+        "prompt": "Frag: Wo ist Madame Tussauds?",
+        "response": [
+            "where is madame tussauds"
+        ]
+    },
+    {
+        "prompt": "Frag: Wo ist die Tate Modern?",
+        "response": [
+            "where is the tate modern"
+        ]
+    },
+    {
+        "prompt": "Frag: Wo ist die Oxford Street?",
+        "response": [
+            "where is oxford street",
+            "where is the oxford street",
+            "where is the oxfor street",
+            "where is oxfo oxford street"
+        ]
+    },
+    {
+        "prompt": "Sag: Saint Pauls Cathedral ist nahe der Bank of England",
+        "response": [
+            "saint pauls cathedral is near bank of england",
+            "saint pauls cathedral is near of the bank of england",
+            "saint pauls cathedral is near the bank of england"
+        ]
+    },
+    {
+        "prompt": "Frag: Wo ist das Science Museum?",
+        "response": [
+            "where is the science museum"
+        ]
+    },
+    {
+        "prompt": "Frag: Wo ist der Tower?",
+        "response": [
+            "where is the tower"
+        ]
+    },
+    {
+        "prompt": "Sag: Es ist nahe der Bank of England",
+        "response": [
+            "this is near bank of england",
+            "it's near the bank of england",
+            "this is near of the bank of england"
+        ]
+    },
+    {
+        "prompt": "Frag: Wo ist der Zoo?",
+        "response": [
+            "where is the zoo"
+        ]
+    },
+    {
+        "prompt": "Sag: Big Ben ist neben den Houses of Parliament",
+        "response": [
+            "big ben is next to the house of parliament",
+            "big ben is the next to house the houses of parliem",
+            "the big ben is near the houses of parliament",
+            "the big ben is near the houses of parliament the big ben is near the houses of parliament",
+            "big ben is next the houses of parliament",
+            "big ben is next to the houses of parliament",
+            "big bean is next of the houses of parliament"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich weiss es nicht",
+        "response": [
+            "i don't know"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich muss gehen",
+        "response": [
+            "i would like go",
+            "sorry i need to go",
+            "i want to go",
+            "i want go"
+        ]
+    },
+    {
+        "prompt": "Frag: ein Ticket für Billy Elliot",
+        "response": [
+            "i want one ticket for billy elliot",
+            "could i have a ticket for billy elliot",
+            "i would like a ticket for billy elliot",
+            "a ticket for billy elliot"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte in der fünften Reihe sitzen",
+        "response": [
+            "i would like to sit in the fifth row",
+            "i want to sit in the fith row",
+            "i want to sit in the fifth row"
+        ]
+    },
+    {
+        "prompt": "Frag: ein Ticket für heute Abend",
+        "response": [
+            "i want tickets for today evening",
+            "i want tickets for this evening",
+            "a ticket for tonight",
+            "i want a ticket for tonight",
+            "can i have a ticket for today night",
+            "can i have one ticket for tonight"
+        ]
+    },
+    {
+        "prompt": "Frag: 2 Musical-Tickets",
+        "response": [
+            "i want two musical tickets",
+            "i would like two musical tickets",
+            "i would like two tickets for the musical",
+            "two musical tickets",
+            "i'd like two musical tickets please",
+            "two musical tickets please"
+        ]
+    },
+    {
+        "prompt": "Frag: 2 Tickets für heute Abend",
+        "response": [
+            "i want two tickets for today evening",
+            "i would like two tickets for today evening",
+            "i want two tickets for tonight"
+        ]
+    },
+    {
+        "prompt": "Frag: 2 Tickets für Billy Elliot",
+        "response": [
+            "i want two tickets for billy elliot"
+        ]
+    },
+    {
+        "prompt": "Frag: Ticket für dieses Musical",
+        "response": [
+            "i want ticket for this musical",
+            "yes i want the ticket for that musical",
+            "yes i want a ticket for the musical",
+            "i want tickets for this musical",
+            "i'd like tickets for this musical"
+        ]
+    },
+    {
+        "prompt": "Frag: ein violettes T-Shirt",
+        "response": [
+            "i would like a violet t-shirt"
+        ]
+    },
+    {
+        "prompt": "Frag: ein rotes T-Shirt",
+        "response": [
+            "i would a red tee shirt",
+            "i would like a red tee shirt",
+            "i want a red tee shirt"
+        ]
+    },
+    {
+        "prompt": "Sag du möchtest nicht: dieses T-Shirt",
+        "response": [
+            "i do not want this t-shirt",
+            "i don't want that tee shirt",
+            "i don't want this tee shirt",
+            "i do not want that tee shirt",
+            "i don't want this t-shirt"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte um 20 Uhr morgen abreisen",
+        "response": [
+            "i want to leave at eight o'clock tomorrow"
+        ]
+    },
+    {
+        "prompt": "Sag: Mein Badezimmer ist dreckig",
+        "response": [
+            "my bathroom is dirty"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte am Donnerstagnachmittag abreisen",
+        "response": [
+            "i want to leave at thursday afternoon",
+            "i want to leave on thursday afternoon"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte am Montagnachmittag abreisen",
+        "response": [
+            "i would like to leave on monday afternoon",
+            "i like to leave at monday afternoon"
+        ]
+    },
+    {
+        "prompt": "Frag: billigeres Ticket",
+        "response": [
+            "is there a cheaper dis ticket",
+            "i want a cheaper ticket",
+            "i want a less expensive ticket"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich habe nur grosse Noten",
+        "response": [
+            "i only have large bills",
+            "i only have large notes",
+            "i have only large notes",
+            "i have got only bigger note",
+            "i have got only great note",
+            "i have only big note"
+        ]
+    },
+    {
+        "prompt": "Sag: Kann ich mit Kreditkarte bezahlen",
+        "response": [
+            "i would like to pay with the credit card",
+            "can i pay with the credit card"
+        ]
+    },
+    {
+        "prompt": "Frag: Wo ist das British Museum?",
+        "response": [
+            "where is the british museum"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte am Donnerstagabend gehen",
+        "response": [
+            "i would like to go on thursday evening",
+            "i'd like to go on thursday evening"
+        ]
+    },
+    {
+        "prompt": "Frag: ein rotes Hemd",
+        "response": [
+            "a red shirt"
+        ]
+    },
+    {
+        "prompt": "Frag: Wie viel kostet das Hemd?",
+        "response": [
+            "how much is the shirt",
+            "how much is this shirt"
+        ]
+    },
+    {
+        "prompt": "Frag: 3 Tickets für morgen Abend",
+        "response": [
+            "i want three tickets for tomorrow night",
+            "three tickets for tomorrow in the evening"
+        ]
+    },
+    {
+        "prompt": "Frag: 3 Tickets für Wicked",
+        "response": [
+            "i want three tickets for wicked",
+            "do you have three tickets for wicked",
+            "i'd like three tickets for wicked"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte in der ersten Reihe sitzen",
+        "response": [
+            "i want to sit in the first row",
+            "ii want to sit in the first row",
+            "i would like to sit in the fourth  first row",
+            "i would like to sit in the first row"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich habe 4 Schwestern",
+        "response": [
+            "i have four sisters",
+            "i've got four sisters",
+            "i have got four sisters"
+        ]
+    },
+    {
+        "prompt": "Frag: 2 Tickets für Mittwochabend",
+        "response": [
+            "two tickets for wednesday night",
+            "i want two tickets for wednesday night"
+        ]
+    },
+    {
+        "prompt": "Frag: 2 Tickets für Wicked",
+        "response": [
+            "two tickets for wicked",
+            "i want two tickets for wicked",
+            "can i have two tickets for wicked"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte am Dienstagmorgen abreisen",
+        "response": [
+            "i want to leave on tuesday morning",
+            "i would like to leave on tuesday morning",
+            "l would like to leave on tuesday morning"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich heisse Janet",
+        "response": [
+            "i am janet",
+            "my name is janet",
+            "i'm called janet",
+            "i am called janet"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte um 14 Uhr morgen abreisen",
+        "response": [
+            "i want to leave tomorrow at two p m"
+        ]
+    },
+    {
+        "prompt": "Frag: 3 Tickets für Montagabend",
+        "response": [
+            "i want three tickets for monday night"
+        ]
+    },
+    {
+        "prompt": "Frag: 3 Tickets für Sonntagabend",
+        "response": [
+            "three tickets for sunday evening",
+            "i want three tickets for sunday night"
+        ]
+    },
+    {
+        "prompt": "Frag: 3 Tickets für das Phantom der Oper",
+        "response": [
+            "i want three tickets for the phantom of the opera"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte am Mittwochmorgen abreisen",
+        "response": [
+            "i want to leave at wednesday morning"
+        ]
+    },
+    {
+        "prompt": "Frag: 4 Tickets für Freitagabend",
+        "response": [
+            "i want four tickets for friday evening"
+        ]
+    },
+    {
+        "prompt": "Frag: 4 Tickets für Billy Elliot",
+        "response": [
+            "i want four tickets for billy elliot"
+        ]
+    },
+    {
+        "prompt": "Frag: Tickets für das London Eye",
+        "response": [
+            "i want tickets for the london eye",
+            "can i have tickets for the london eye",
+            "can i also have tickets for the london eye",
+            "i'd like tickets for the london eye"
+        ]
+    },
+    {
+        "prompt": "Frag: ein pinkiges T-Shirt",
+        "response": [
+            "i want a pink tee shirt",
+            "i would like a pink tee shirt"
+        ]
+    },
+    {
+        "prompt": "Sag: Das T-Shirt ist zu teuer",
+        "response": [
+            "the tee shirt is too expensive",
+            "shirt is too expensive",
+            "tee shirt is too expensive"
+        ]
+    },
+    {
+        "prompt": "Frag: ein gelbes T-Shirt",
+        "response": [
+            "i would like a yellow tee shirt",
+            "a yellow tee shirt",
+            "i want a yellow tee shirt"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte am Samstagmorgen abreisen",
+        "response": [
+            "i want to leave on saturday morning",
+            "i would like to leave on saturday morning"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte um 9 Uhr morgen abreisen",
+        "response": [
+            "i want to leave at nine a m tomorrow",
+            "i would like to leave at nine o'clock in the morning",
+            "i would like to leave tomorrow at nine o'clock",
+            "i would like to leave at nine o'clock tomorrow"
+        ]
+    },
+    {
+        "prompt": "Frag: ein violettes Sweatshirt",
+        "response": [
+            "i would like violet sweatshirt",
+            "a purple sweatshirt please"
+        ]
+    },
+    {
+        "prompt": "Sag: Portugal ist nicht in Afrika",
+        "response": [
+            "portugal is not in africa"
+        ]
+    },
+    {
+        "prompt": "Sag: Portugal ist in Europa",
+        "response": [
+            "portugal is in europe"
+        ]
+    },
+    {
+        "prompt": "Frag: 3 Tickets für heute Abend",
+        "response": [
+            "i want three tickets for tonight"
+        ]
+    },
+    {
+        "prompt": "Frag: Wo kann ich ein Shampoo kaufen?",
+        "response": [
+            "where i can buy some shampoo"
+        ]
+    },
+    {
+        "prompt": "Sag: Das Zimmer ist dreckig",
+        "response": [
+            "the room is dirty",
+            "no the room is very dirty",
+            "the room isn't clean",
+            "my room is dirty"
+        ]
+    },
+    {
+        "prompt": "Sag: Im Zimmer hat es kein Duschgel",
+        "response": [
+            "in the room isn't shampoo",
+            "i could not find any no shower gel",
+            "there isn't a shower gel in the room"
+        ]
+    },
+    {
+        "prompt": "Frag: gelbe Jeans",
+        "response": [
+            "i want yellow jeans"
+        ]
+    },
+    {
+        "prompt": "Sag: Die Jeans ist zu teuer",
+        "response": [
+            "the jeans is too expensive",
+            "no thank you the jeans is too expensive"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich habe 3 Schwestern",
+        "response": [
+            "i have three sisters",
+            "i have got three sisters"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte um 12 Uhr morgen abreisen",
+        "response": [
+            "i would like leave at twelve o'clock tomorrow"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte heute Abend gehen",
+        "response": [
+            "i want to go this evening"
+        ]
+    },
+    {
+        "prompt": "Frag: 2 Tickets für Starlight Express",
+        "response": [
+            "i would like two tickets for starlight express"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich habe kleinere Note",
+        "response": [
+            "i have smaller notes",
+            "i got small notes",
+            "i have smaller note",
+            "i have got small note"
+        ]
+    },
+    {
+        "prompt": "Frag: Wo ist Big Ben?",
+        "response": [
+            "where is the big ben"
+        ]
+    },
+    {
+        "prompt": "Frag: ein Ticket für morgen Abend",
+        "response": [
+            "i want tickets for tomorrow night please"
+        ]
+    },
+    {
+        "prompt": "Frag: 2 Tickets für König der Löwen",
+        "response": [
+            "i would like two tickets for the king of the lions",
+            "two tickets for king the lion",
+            "two tickets for lion of kings",
+            "i want two tickets for the lion king"
+        ]
+    },
+    {
+        "prompt": "Frag: 4 Tickets für Samstagabend",
+        "response": [
+            "i want four tickets for saturday night"
+        ]
+    },
+    {
+        "prompt": "Frag: ein Ticket für König der Löwen",
+        "response": [
+            "i want a ticket for the king of the lions",
+            "i want one ticket for the for king the king of the lions",
+            "a ticket for king of lion",
+            "i want one ticket for the lion king",
+            "a ticket for the lion king please",
+            "i want tickets for the lion king"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte morgen gehen",
+        "response": [
+            "i want to go tomorrow"
+        ]
+    },
+    {
+        "prompt": "Frag: 2 Tickets für das Phantom der Oper",
+        "response": [
+            "i want two tickets for the phantom of the opera"
+        ]
+    },
+    {
+        "prompt": "Frag: ein Ticket für Freitagabend",
+        "response": [
+            "i want tickets to for friday night",
+            "i want tickets for friday night",
+            "do you have a ticket for friday evening",
+            "i would like to go on friday evening",
+            "a ticket for friday evening",
+            "tickets for friday evening",
+            "i want a ticket for friday night"
+        ]
+    },
+    {
+        "prompt": "Frag: 4 Tickets für Mittwochabend",
+        "response": [
+            "i want four tickets for wednesday night"
+        ]
+    },
+    {
+        "prompt": "Sag: Dies ist zu eng",
+        "response": [
+            "this is too tight"
+        ]
+    },
+    {
+        "prompt": "Sag: Marble Arch ist gegenüber dem Hyde Park",
+        "response": [
+            "marble arch is opposite hyde park",
+            "marble marble arch is opposite the hyde park"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich bezahle mit Kreditkarte",
+        "response": [
+            "i will pay by credit card",
+            "i pay by credit card",
+            "i would like to pay by credit card",
+            "i pay with credit card",
+            "i pay with the credit card",
+            "i buy with credit card"
+        ]
+    },
+    {
+        "prompt": "Frag: 3 Tickets für Mamma Mia",
+        "response": [
+            "i want three tickets for mamma mia"
+        ]
+    },
+    {
+        "prompt": "Sag: Deutschland ist nicht in Afrika",
+        "response": [
+            "germany is not in africa"
+        ]
+    },
+    {
+        "prompt": "Sag: Deutschland ist in Europa",
+        "response": [
+            "germany is in europee"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich habe 3 ältere Schwestern",
+        "response": [
+            "i have three older sisters"
+        ]
+    },
+    {
+        "prompt": "Frag: ein violettes Hemd",
+        "response": [
+            "i want a purple shirt"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte am Mittwoch abreisen",
+        "response": [
+            "i want to leave on wednesday",
+            "i would like at wednesday leave",
+            "i would like to leave on wednesday"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte am Montagabend abreisen",
+        "response": [
+            "i'd like to leave at monday evening",
+            "i want to leave at monday night"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich habe 1 Bruder",
+        "response": [
+            "i have one brother"
+        ]
+    },
+    {
+        "prompt": "Sag: Italien ist nicht in Afrika",
+        "response": [
+            "italy is not in africa"
+        ]
+    },
+    {
+        "prompt": "Sag: Italien ist in Europa",
+        "response": [
+            "italy is in europe"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte am Dienstagnachmittag abreisen",
+        "response": [
+            "i would like to leave on tuesday in the afternoon",
+            "i want to leave at tuesday afternoon"
+        ]
+    },
+    {
+        "prompt": "Sag: Die Schweiz ist nicht in Afrika",
+        "response": [
+            "switzerland is not in africa"
+        ]
+    },
+    {
+        "prompt": "Sag: Die Schweiz ist in Europa",
+        "response": [
+            "switzerland is in europe",
+            "switzerland is in europa"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte hinten sitzen",
+        "response": [
+            "i want to sit in the back"
+        ]
+    },
+    {
+        "prompt": "Frag: ein weisses Sweatshirt",
+        "response": [
+            "i would like a white sweatshirt"
+        ]
+    },
+    {
+        "prompt": "Sag du möchtest nicht: dieses Sweatshirt",
+        "response": [
+            "i want not this sweatshirt",
+            "i do not want this sweatshirt",
+            "i don't want this sweatshirt"
+        ]
+    },
+    {
+        "prompt": "Sag: ich kaufe diese Tickets",
+        "response": [
+            "i buy this ticket"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte am Sonntagabend gehen",
+        "response": [
+            "i want to go to the musical on sunday evening"
+        ]
+    },
+    {
+        "prompt": "Sag: Die Türkei ist nicht in Afrika",
+        "response": [
+            "turkey isn't in africa",
+            "turkey is not in africa"
+        ]
+    },
+    {
+        "prompt": "Sag: Die Türkei ist in Europa",
+        "response": [
+            "turkey is in europe"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich warte auf das bestellte Essen",
+        "response": [
+            "i want the ordered food"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte am Donnerstagabend abreisen",
+        "response": [
+            "i want to leave at thursday evening",
+            "i want to leave at thursday night"
+        ]
+    },
+    {
+        "prompt": "Sag: Österreich ist nicht in Afrika",
+        "response": [
+            "austria isn't in africa"
+        ]
+    },
+    {
+        "prompt": "Sag: Österreich ist in Europa",
+        "response": [
+            "austria is in europe"
+        ]
+    },
+    {
+        "prompt": "Frag: 2 Tickets für Dienstagabend",
+        "response": [
+            "i want two tickets for tuesday night"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich habe einen jüngeren Bruder",
+        "response": [
+            "i have one younger brother"
+        ]
+    },
+    {
+        "prompt": "Frag: 4 Tickets für Mamma Mia",
+        "response": [
+            "four tickets for mamma mia",
+            "i'd like four tickets for mamma mia"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte vorne sitzen",
+        "response": [
+            "i want to sit in the front"
+        ]
+    },
+    {
+        "prompt": "Sag: Eine Reduzierung ist akzeptabel",
+        "response": [
+            "reduction is acceptable"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte am Freitagmorgen abreisen",
+        "response": [
+            "i want to leave friday morning",
+            "i want to leave at friday morning"
+        ]
+    },
+    {
+        "prompt": "Sag: Ich möchte am Samstagabend gehen",
+        "response": [
+            "i want to go at saturday night"
+        ]
+    },
+    {
+        "prompt": "Frag: ein Ticket für Donnerstagabend",
+        "response": [
+            "i'd tickets for tuesday evening",
+            "i would like tickets for thursday night"
+        ]
+    },
+    {
+        "prompt": "Frag: 4 Tickets für Sonntagabend",
+        "response": [
+            "i'd like four tickets for sunday night"
+        ]
+    },
+    {
+        "prompt": "Frag: ein grünes Sweatshirt",
+        "response": [
+            "i'd like a green sweatshirt"
+        ]
+    },
+    {
+        "prompt": "Frag: ein Ticket für Starlight Express",
+        "response": [
+            "a ticket for starlight express",
+            "can i have a ticket for starlight express"
+        ]
+    },
+    {
+        "prompt": "Frag: ein grünes Hemd",
+        "response": [
+            "i'd like a green shirt"
+        ]
+    }
+]
